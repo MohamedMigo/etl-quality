@@ -1,0 +1,2053 @@
+order_id,customer_email,country,order_date,amount,currency
+1000,user310@mail.com,UK,2026-05-02,62.05,USD
+1001,user283@mail.com,Germany,2026-01-07,137.68,USD
+1002,user328@mail.com,EGYPT,2026-10-04,118.11,USD
+1003,user398@mail.com,egypt ,2026-09-25,47.74,USD
+1004,user138@mail.com,UK,2026-01-22,42.68,USD
+1005,user228@mail.com,EGYPT,2026-07-18,28.98,USD
+1006,user345@mail.com,usa,2026-03-11,54.15,USD
+1007,user180@mail.com,usa,2026-08-04,55.38,USD
+1008,user168@mail.com,egypt ,2026-01-15,69.81,USD
+1009,user247@mail.com,UK,2026-10-21,,USD
+1010,user61@mail.com,Egypt,2026-07-30,47.01,USD
+1011,user143@mail.com,Germany,2026-07-13,80.81,USD
+1012,user102@mail.com,usa,2026-02-09,19.82,USD
+1013,user185@mail.com,EGYPT,2026-01-22,130.7,USD
+1014,user305@mail.com,egypt ,2026-08-24,112.58,USD
+1015,user367@mail.com,Germany,2026-09-17,25.77,USD
+1016,user6@mail.com,usa,2026-05-13,57.75,USD
+1017,user31@mail.com,USA,2026-07-12,79.68,USD
+1018,user251@mail.com,Egypt,2026-06-30,65.45,USD
+1019,user234@mail.com,germany,2026-01-11,114.77,USD
+1020,user305@mail.com,germany,2026-07-06,11.44,USD
+1021,user335@mail.com,germany,2026-01-14,22.53,USD
+1022,user308@mail.com,USA,2026-08-11,66.61,USD
+1023,user87@mail.com,egypt ,2026-04-25,32.73,USD
+1024,user62@mail.com,Egypt,2026-10-19,50.61,USD
+1025,user329@mail.com,egypt ,2026-10-22,32.24,USD
+1026,user139@mail.com,UK,2026-03-08,44.87,USD
+1027,user212@mail.com,EGYPT,2026-08-03,59.45,USD
+1028,user368@mail.com,Germany,31/02/2026,11.23,USD
+1029,user117@mail.com,egypt ,2026-09-23,184.91,USD
+1030,user7@mail.com,UK,2026-03-03,169.78,USD
+1031,user314@mail.com,egypt ,2026-06-03,57.22,USD
+1032,user181@mail.com,Germany,2026-10-04,48.14,USD
+1033,user26@mail.com,germany,2026-03-03,167.95,USD
+1034,user398@mail.com,Egypt,2026-09-24,45.81,USD
+1035,user162@mail.com,EGYPT,2026-01-24,20.12,USD
+1036,user98@mail.com,USA,2026-07-19,64.25,USD
+1037,user41@mail.com,EGYPT,31/02/2026,82.98,USD
+1038,user319@mail.com,usa,31/02/2026,26.49,USD
+1039,user236@mail.com,Egypt,2026-06-11,39.96,USD
+1040,user67@mail.com,Egypt,2026-02-06,87.3,USD
+1041,user238@mail.com,egypt ,2026-10-14,87.66,USD
+1042,user376@mail.com,USA,2026-09-29,157.04,USD
+1043,user121@mail.com,usa,31/02/2026,89.48,USD
+1044,user13@mail.com,USA,2026-02-20,74.16,USD
+1045,user146@mail.com,germany,2026-02-28,194.82,USD
+1046,user55@mail.com,egypt ,2026-10-16,57.27,USD
+1047,user40@mail.com,Germany,2026-06-16,93.81,USD
+1048,user202@mail.com,germany,2026-08-21,96.07,USD
+1049,user193@mail.com,Germany,2026-06-29,411.22,USD
+1050,user297@mail.com,UK,2026-03-24,43.13,USD
+1051,user248@mail.com,UK,2026-03-18,24.36,USD
+1052,user300@mail.com,USA,2026-03-11,38.52,USD
+1053,user362@mail.com,usa,2026-10-03,118.31,USD
+1054,user138@mail.com,UK,2026-05-17,107.23,USD
+1055,user397@mail.com,EGYPT,2026-10-19,42.64,USD
+1056,user335@mail.com,Egypt,2026-04-16,43.29,USD
+1057,user398@mail.com,egypt ,2026-07-24,207.44,USD
+1058,user346@mail.com,Egypt,2026-05-04,17.26,USD
+1059,user374@mail.com,egypt ,2026-01-24,37.02,USD
+1060,,USA,2026-05-30,19.74,USD
+1061,user330@mail.com,UK,2026-08-12,46.68,USD
+1062,user271@mail.com,germany,2026-03-03,,USD
+1063,user231@mail.com,germany,2026-07-11,76.65,USD
+1064,user270@mail.com,egypt ,2026-05-16,34.92,USD
+1065,user290@mail.com,EGYPT,2026-01-31,123.31,USD
+1066,user287@mail.com,EGYPT,2026-03-18,67.54,USD
+1067,user235@mail.com,UK,2026-08-04,65.83,USD
+1068,user284@mail.com,usa,2026-02-05,30.7,USD
+1069,user357@mail.com,USA,2026-07-16,52.71,USD
+1070,user181@mail.com,UK,2026-08-18,67.92,USD
+1071,user289@mail.com,egypt ,2026-05-19,76.69,USD
+1072,user384@mail.com,EGYPT,2026-08-02,76.37,USD
+1073,user88@mail.com,EGYPT,2026-07-23,119.89,USD
+1074,user299@mail.com,germany,2026-05-31,39.9,USD
+1075,user16@mail.com,Germany,2026-06-03,228.09,USD
+1075,user16@mail.com,Germany,2026-06-03,228.09,USD
+1076,user236@mail.com,Germany,2026-04-30,53.49,USD
+1077,user79@mail.com,EGYPT,2026-01-19,25.53,USD
+1078,user10@mail.com,USA,2026-01-26,55.38,USD
+1079,user358@mail.com,Germany,2026-03-10,28.35,USD
+1080,user362@mail.com,EGYPT,2026-01-22,26.84,USD
+1081,user333@mail.com,UK,2026-02-04,59.02,USD
+1082,user20@mail.com,germany,2026-07-25,47.66,USD
+1083,user2@mail.com,Germany,2026-09-29,41.35,USD
+1084,user12@mail.com,EGYPT,2026-08-24,57.3,USD
+1085,user227@mail.com,UK,2026-01-15,18.05,USD
+1086,user361@mail.com,Egypt,2026-07-26,49.14,USD
+1087,user243@mail.com,Germany,2026-09-10,37.61,USD
+1088,user373@mail.com,germany,2026-06-27,185.29,USD
+1089,user16@mail.com,USA,2026-08-27,52.92,USD
+1090,not-an-email,Egypt,2026-02-17,21.27,USD
+1091,user388@mail.com,UK,2026-01-10,99.62,USD
+1092,user202@mail.com,egypt ,2026-06-29,30.07,USD
+1093,user172@mail.com,usa,2026-07-31,25.57,USD
+1094,user95@mail.com,USA,2026-07-17,134.62,USD
+1095,user138@mail.com,EGYPT,2026-08-16,104.18,USD
+1096,user240@mail.com,egypt ,2026-07-18,11.16,USD
+1097,user329@mail.com,Egypt,2026-02-19,31.78,USD
+1098,user332@mail.com,USA,2026-08-19,40.16,USD
+1098,user332@mail.com,USA,2026-08-19,40.16,USD
+1099,user57@mail.com,UK,2026-04-10,,USD
+1100,user288@mail.com,usa,2026-05-04,39.55,USD
+1101,user97@mail.com,UK,2026-06-13,115.1,USD
+1102,user52@mail.com,Germany,2026-02-27,125.87,USD
+1103,user349@mail.com,egypt ,2026-02-25,51.74,USD
+1104,user399@mail.com,egypt ,2026-06-27,38.7,USD
+1105,user277@mail.com,Egypt,2026-08-16,87.89,USD
+1106,user386@mail.com,egypt ,2026-02-09,43.14,USD
+1107,user311@mail.com,Germany,2026-07-06,41.95,USD
+1108,user44@mail.com,germany,2026-02-01,38.56,USD
+1109,user215@mail.com,USA,2026-04-16,166.61,USD
+1110,user209@mail.com,UK,2026-07-29,50.21,USD
+1111,user32@mail.com,UK,31/02/2026,23.46,USD
+1112,user240@mail.com,Germany,2026-05-22,54.04,USD
+1113,user228@mail.com,egypt ,2026-02-22,26.21,USD
+1114,user83@mail.com,usa,2026-05-26,112.16,USD
+1115,user16@mail.com,UK,2026-09-27,117.97,USD
+1116,user323@mail.com,EGYPT,2026-06-02,55.92,USD
+1117,user186@mail.com,Egypt,2026-01-26,94.23,USD
+1118,user27@mail.com,egypt ,2026-05-22,48.29,USD
+1119,user23@mail.com,Egypt,2026-09-13,47.81,USD
+1120,user389@mail.com,usa,2026-03-26,38.44,USD
+1121,user31@mail.com,UK,2026-10-10,18.88,USD
+1122,user88@mail.com,germany,2026-09-21,44.11,USD
+1123,user131@mail.com,UK,2026-10-08,49.75,USD
+1124,user211@mail.com,UK,2026-10-23,34.29,USD
+1125,user295@mail.com,egypt ,2026-10-27,62.76,USD
+1126,user191@mail.com,Egypt,2026-05-18,12.92,USD
+1127,user204@mail.com,USA,31/02/2026,29.34,USD
+1128,user201@mail.com,germany,31/02/2026,119.19,USD
+1129,user41@mail.com,egypt ,2026-07-31,36.39,USD
+1130,user248@mail.com,UK,2026-01-03,81.9,USD
+1131,user87@mail.com,EGYPT,2026-01-25,25.51,USD
+1132,user73@mail.com,usa,31/02/2026,98.87,USD
+1133,user67@mail.com,EGYPT,31/02/2026,28.62,USD
+1134,user222@mail.com,usa,2026-10-01,11.58,USD
+1134,user222@mail.com,usa,2026-10-01,11.58,USD
+1135,user65@mail.com,usa,2026-02-23,32.53,USD
+1136,user245@mail.com,Germany,2026-02-09,-45.57,USD
+1137,user272@mail.com,UK,2026-09-06,48.15,USD
+1138,user234@mail.com,usa,2026-10-03,41.48,USD
+1139,user86@mail.com,USA,2026-04-02,10.03,USD
+1140,user315@mail.com,EGYPT,2026-01-28,62.3,USD
+1140,user315@mail.com,EGYPT,2026-01-28,62.3,USD
+1141,user393@mail.com,germany,2026-03-04,,USD
+1142,user112@mail.com,USA,2026-08-14,32.76,USD
+1143,user395@mail.com,USA,2026-06-12,78.85,USD
+1144,user94@mail.com,egypt ,2026-05-27,123.22,USD
+1145,user223@mail.com,germany,2026-06-24,78.71,USD
+1146,user318@mail.com,UK,2026-09-30,83.15,USD
+1147,user399@mail.com,germany,31/02/2026,30.36,USD
+1148,user264@mail.com,Germany,31/02/2026,37.53,USD
+1149,,USA,2026-03-02,29.24,USD
+1150,user334@mail.com,egypt ,2026-07-09,45.0,USD
+1151,,Egypt,2026-04-23,29.42,USD
+1152,user370@mail.com,Germany,2026-06-10,63.89,USD
+1153,user116@mail.com,UK,2026-03-03,63.93,USD
+1154,user15@mail.com,USA,2026-10-10,62.16,USD
+1155,user105@mail.com,usa,2026-04-05,52.55,USD
+1156,user382@mail.com,egypt ,2026-06-02,-50.16,USD
+1157,user49@mail.com,USA,2026-06-14,52.37,USD
+1158,user201@mail.com,egypt ,31/02/2026,97.33,USD
+1159,user44@mail.com,EGYPT,2026-09-18,58.37,USD
+1160,user234@mail.com,Germany,2026-10-03,45.14,USD
+1161,user266@mail.com,USA,2026-03-10,63.74,USD
+1162,user100@mail.com,UK,2026-10-27,48.56,USD
+1163,user109@mail.com,USA,2026-02-23,124.44,USD
+1164,user122@mail.com,usa,2026-09-13,121.78,USD
+1165,user356@mail.com,USA,2026-05-26,36.36,USD
+1166,user126@mail.com,UK,2026-06-05,46.55,USD
+1167,user385@mail.com,usa,2026-07-06,64.03,USD
+1168,user29@mail.com,egypt ,2026-04-01,71.95,USD
+1169,user254@mail.com,Germany,2026-09-08,56.87,USD
+1170,user368@mail.com,usa,2026-09-06,53.27,USD
+1171,user76@mail.com,germany,2026-10-26,39.27,USD
+1172,user178@mail.com,Germany,2026-08-17,46.67,USD
+1173,user348@mail.com,germany,2026-10-10,71.39,USD
+1174,user287@mail.com,USA,2026-05-30,131.87,USD
+1175,user289@mail.com,usa,2026-04-03,20.22,USD
+1176,user89@mail.com,usa,2026-03-24,24.85,USD
+1177,user29@mail.com,UK,2026-10-11,60.5,USD
+1178,user61@mail.com,usa,2026-03-27,19.67,USD
+1179,user351@mail.com,USA,2026-07-23,32.43,USD
+1180,user223@mail.com,EGYPT,2026-04-19,152.64,USD
+1181,user103@mail.com,Germany,2026-04-06,15.09,USD
+1182,user235@mail.com,USA,2026-06-27,80.51,USD
+1183,user138@mail.com,EGYPT,2026-03-14,16.32,USD
+1184,user219@mail.com,usa,2026-08-08,55.48,USD
+1185,user17@mail.com,EGYPT,2026-10-27,96.46,USD
+1185,user17@mail.com,EGYPT,2026-10-27,96.46,USD
+1186,user358@mail.com,USA,2026-03-09,61.9,USD
+1187,user379@mail.com,egypt ,2026-10-16,35.72,USD
+1188,user310@mail.com,EGYPT,2026-03-18,27.28,USD
+1189,user4@mail.com,egypt ,2026-02-10,93.27,USD
+1190,user227@mail.com,germany,2026-08-22,65.93,USD
+1191,user88@mail.com,Egypt,31/02/2026,22.86,USD
+1192,user23@mail.com,Germany,2026-06-17,102.41,USD
+1193,user122@mail.com,Egypt,2026-08-16,71.77,USD
+1194,user294@mail.com,egypt ,2026-08-01,44.08,USD
+1195,user302@mail.com,USA,2026-05-29,24.15,USD
+1196,user308@mail.com,usa,2026-09-19,16.72,USD
+1197,user33@mail.com,EGYPT,2026-09-25,72.61,USD
+1198,user268@mail.com,EGYPT,2026-02-21,56.47,USD
+1199,user246@mail.com,Germany,2026-06-01,22.05,USD
+1200,user3@mail.com,Egypt,2026-01-11,17.92,USD
+1201,user154@mail.com,germany,2026-01-07,35.0,USD
+1202,user382@mail.com,usa,2026-10-16,36.45,USD
+1203,user346@mail.com,germany,2026-09-18,32.49,USD
+1204,user256@mail.com,egypt ,2026-01-04,54.18,USD
+1205,user176@mail.com,Egypt,2026-10-14,99.46,USD
+1206,user106@mail.com,USA,2026-05-13,,USD
+1207,user104@mail.com,USA,2026-09-03,155.79,USD
+1208,user198@mail.com,EGYPT,2026-10-27,22.05,USD
+1209,user216@mail.com,USA,2026-09-14,49.35,USD
+1210,user187@mail.com,usa,2026-07-06,167.93,USD
+1211,user54@mail.com,usa,2026-04-27,20.91,USD
+1212,user243@mail.com,usa,31/02/2026,65.47,USD
+1213,user351@mail.com,egypt ,2026-03-24,101.36,USD
+1214,user151@mail.com,EGYPT,2026-09-20,466.49,USD
+1215,user321@mail.com,usa,2026-03-16,14.47,USD
+1216,user10@mail.com,USA,2026-09-21,108.77,USD
+1217,user200@mail.com,Germany,2026-03-04,41.0,USD
+1218,user111@mail.com,Germany,2026-06-20,40.95,USD
+1219,user123@mail.com,EGYPT,2026-09-17,140.27,USD
+1220,user149@mail.com,EGYPT,2026-02-06,93.04,USD
+1221,user60@mail.com,UK,2026-04-13,168.14,USD
+1222,user270@mail.com,Germany,2026-07-22,36.76,USD
+1223,user396@mail.com,usa,2026-06-28,68.14,USD
+1224,,egypt ,2026-05-02,38.81,USD
+1225,user25@mail.com,egypt ,2026-06-26,63.79,USD
+1226,user149@mail.com,Egypt,2026-02-04,46.16,USD
+1227,user143@mail.com,usa,2026-08-13,18.64,USD
+1228,user188@mail.com,Egypt,2026-08-24,43.18,USD
+1229,user242@mail.com,egypt ,2026-10-16,54.1,USD
+1230,user277@mail.com,Egypt,2026-09-30,39.97,USD
+1231,user387@mail.com,UK,2026-01-08,46.4,USD
+1232,user42@mail.com,egypt ,2026-01-05,148.11,USD
+1233,,USA,2026-02-13,36.59,USD
+1234,user371@mail.com,Germany,2026-08-14,17.56,USD
+1235,user8@mail.com,Germany,2026-06-05,157.53,USD
+1236,user66@mail.com,USA,2026-01-08,23.98,USD
+1237,user85@mail.com,USA,2026-08-30,38.75,USD
+1238,user150@mail.com,USA,2026-09-24,156.58,USD
+1239,user198@mail.com,germany,2026-03-29,41.91,USD
+1240,,USA,2026-09-19,49.09,USD
+1241,user309@mail.com,germany,2026-08-14,47.1,USD
+1242,user380@mail.com,Germany,2026-09-25,203.69,USD
+1243,user365@mail.com,EGYPT,2026-02-14,52.86,USD
+1244,user61@mail.com,germany,2026-03-10,20.72,USD
+1245,user23@mail.com,USA,2026-09-22,47.36,USD
+1246,user266@mail.com,UK,2026-08-24,66.83,USD
+1247,user168@mail.com,egypt ,2026-10-11,26.25,USD
+1248,,Egypt,2026-05-03,51.55,USD
+1249,user128@mail.com,USA,2026-06-13,29.9,USD
+1250,user344@mail.com,usa,31/02/2026,41.62,USD
+1251,user64@mail.com,Egypt,2026-01-12,36.49,USD
+1252,user353@mail.com,usa,2026-02-18,48.59,USD
+1253,user189@mail.com,EGYPT,2026-08-11,25.85,USD
+1254,user261@mail.com,Germany,2026-07-31,78.7,USD
+1255,user82@mail.com,Germany,2026-07-09,75.73,USD
+1256,user100@mail.com,EGYPT,2026-05-06,77.26,USD
+1257,user85@mail.com,usa,2026-09-28,122.54,USD
+1258,user335@mail.com,egypt ,2026-10-21,46.37,USD
+1259,user133@mail.com,germany,2026-10-22,24.59,USD
+1260,user79@mail.com,USA,2026-07-13,118.05,USD
+1261,user375@mail.com,usa,2026-06-14,39.23,USD
+1262,user302@mail.com,germany,2026-04-21,57.08,USD
+1263,user337@mail.com,usa,2026-03-02,260.73,USD
+1264,user318@mail.com,USA,2026-10-07,63.23,USD
+1265,user243@mail.com,usa,2026-05-12,99.31,USD
+1266,user43@mail.com,Germany,2026-10-28,204.64,USD
+1266,user43@mail.com,Germany,2026-10-28,204.64,USD
+1267,user286@mail.com,usa,2026-10-17,271.87,USD
+1268,user182@mail.com,usa,2026-07-20,16.44,USD
+1269,user395@mail.com,egypt ,2026-04-10,27.4,USD
+1270,user389@mail.com,Germany,2026-05-01,64.44,USD
+1271,user76@mail.com,Germany,2026-06-15,16.5,USD
+1272,user393@mail.com,egypt ,2026-02-24,35.42,USD
+1273,not-an-email,Germany,2026-08-22,38.77,USD
+1274,user101@mail.com,EGYPT,2026-02-04,60.65,USD
+1275,user338@mail.com,EGYPT,2026-06-29,20.11,USD
+1276,user182@mail.com,egypt ,2026-09-06,124.43,USD
+1277,user122@mail.com,egypt ,2026-01-14,41.78,USD
+1278,user109@mail.com,usa,2026-10-12,121.62,USD
+1279,user62@mail.com,usa,2026-08-13,31.26,USD
+1280,user65@mail.com,UK,2026-03-24,115.69,USD
+1281,user121@mail.com,usa,2026-07-29,21.64,USD
+1282,user358@mail.com,UK,2026-02-09,152.93,USD
+1283,,Egypt,2026-02-25,95.9,USD
+1284,user14@mail.com,germany,2026-01-19,27.11,USD
+1285,user216@mail.com,usa,31/02/2026,160.85,USD
+1286,user35@mail.com,USA,2026-10-08,32.88,USD
+1287,user353@mail.com,Germany,2026-07-14,31.29,USD
+1288,user350@mail.com,Germany,2026-02-16,62.02,USD
+1289,user356@mail.com,EGYPT,2026-10-25,68.52,USD
+1290,user362@mail.com,usa,2026-10-16,135.66,USD
+1291,user208@mail.com,usa,2026-08-13,55.85,USD
+1292,user50@mail.com,Germany,2026-06-11,31.86,USD
+1293,user195@mail.com,UK,2026-09-05,34.65,USD
+1294,user148@mail.com,germany,2026-01-11,-108.34,USD
+1295,user211@mail.com,usa,2026-04-07,72.2,USD
+1296,user3@mail.com,usa,2026-08-09,81.72,USD
+1297,user350@mail.com,EGYPT,2026-02-23,8.44,USD
+1298,user378@mail.com,USA,2026-10-19,32.72,USD
+1299,user252@mail.com,USA,2026-01-26,84.23,USD
+1300,,usa,2026-01-19,36.3,USD
+1301,user286@mail.com,EGYPT,2026-06-04,8.89,USD
+1302,user38@mail.com,egypt ,2026-08-11,76.88,USD
+1302,user38@mail.com,egypt ,2026-08-11,76.88,USD
+1303,user24@mail.com,usa,2026-06-15,18.8,USD
+1304,user125@mail.com,usa,2026-02-27,44.27,USD
+1305,user52@mail.com,EGYPT,2026-06-11,37.22,USD
+1306,user67@mail.com,UK,2026-04-01,44.82,USD
+1307,not-an-email,Germany,2026-09-24,41.29,USD
+1308,user330@mail.com,Germany,2026-10-16,34.65,USD
+1309,user80@mail.com,Germany,2026-10-21,60.49,USD
+1310,user144@mail.com,germany,31/02/2026,48.36,USD
+1311,user399@mail.com,UK,2026-07-09,40.91,USD
+1312,user100@mail.com,germany,2026-02-20,237.34,USD
+1313,user355@mail.com,USA,2026-10-18,43.75,USD
+1314,user174@mail.com,EGYPT,31/02/2026,56.82,USD
+1315,user309@mail.com,UK,2026-05-21,44.19,USD
+1316,user276@mail.com,Germany,2026-06-11,56.97,USD
+1317,user293@mail.com,egypt ,2026-08-06,27.36,USD
+1318,user250@mail.com,UK,2026-02-25,128.49,USD
+1319,user40@mail.com,Egypt,2026-04-17,15.25,USD
+1320,user124@mail.com,germany,2026-09-28,23.93,USD
+1321,user259@mail.com,germany,2026-01-30,48.0,USD
+1322,user114@mail.com,egypt ,2026-03-22,115.57,USD
+1323,user353@mail.com,UK,2026-02-08,45.61,USD
+1324,user14@mail.com,Germany,2026-09-16,76.86,USD
+1325,user327@mail.com,Egypt,2026-08-17,77.11,USD
+1326,user45@mail.com,USA,2026-06-25,29.87,USD
+1327,user51@mail.com,Egypt,2026-09-30,48.63,USD
+1328,user151@mail.com,UK,2026-09-28,22.74,USD
+1329,user115@mail.com,USA,2026-06-01,21.29,USD
+1330,user8@mail.com,Egypt,2026-04-15,58.75,USD
+1331,user204@mail.com,usa,2026-05-25,166.72,USD
+1332,user51@mail.com,EGYPT,2026-01-27,110.1,USD
+1333,user146@mail.com,usa,2026-06-10,43.64,USD
+1334,user333@mail.com,germany,2026-04-21,50.1,USD
+1335,user177@mail.com,egypt ,2026-02-25,12.71,USD
+1336,user250@mail.com,germany,2026-10-26,100.31,USD
+1337,user182@mail.com,Germany,2026-06-12,64.49,USD
+1338,user142@mail.com,Germany,2026-05-27,199.14,USD
+1339,user379@mail.com,UK,2026-08-23,46.89,USD
+1340,user62@mail.com,Egypt,2026-07-03,,USD
+1341,,USA,2026-07-11,48.94,USD
+1342,user156@mail.com,usa,2026-04-15,29.69,USD
+1343,user349@mail.com,Germany,2026-07-24,12.52,USD
+1344,user400@mail.com,UK,2026-04-19,110.07,USD
+1345,user240@mail.com,germany,2026-09-18,46.84,USD
+1346,user193@mail.com,Egypt,2026-05-13,27.9,USD
+1347,user58@mail.com,UK,2026-07-17,71.05,USD
+1348,user62@mail.com,Egypt,2026-08-08,33.09,USD
+1349,user49@mail.com,USA,2026-07-03,38.13,USD
+1350,user193@mail.com,UK,2026-02-06,51.1,USD
+1351,user322@mail.com,USA,2026-01-02,38.97,USD
+1352,user372@mail.com,UK,2026-06-04,36.15,USD
+1353,user44@mail.com,USA,2026-10-18,9.7,USD
+1354,user44@mail.com,usa,2026-04-07,56.63,USD
+1355,user333@mail.com,USA,2026-01-29,132.68,USD
+1356,user209@mail.com,usa,2026-10-20,34.22,USD
+1357,user22@mail.com,Egypt,2026-08-31,162.35,USD
+1358,user300@mail.com,USA,2026-09-26,76.98,USD
+1359,user306@mail.com,usa,2026-08-12,443.01,USD
+1360,,germany,2026-05-13,106.19,USD
+1361,user132@mail.com,germany,2026-10-07,137.33,USD
+1362,user258@mail.com,germany,2026-02-19,68.16,USD
+1363,user229@mail.com,EGYPT,2026-10-22,35.47,USD
+1364,user47@mail.com,egypt ,2026-07-11,30.91,USD
+1365,user203@mail.com,Egypt,31/02/2026,10.56,USD
+1366,user24@mail.com,USA,2026-05-05,327.09,USD
+1367,user381@mail.com,USA,2026-02-25,14.94,USD
+1368,user261@mail.com,egypt ,2026-02-24,105.53,USD
+1369,user37@mail.com,egypt ,31/02/2026,60.0,USD
+1370,user186@mail.com,UK,2026-05-21,52.72,USD
+1371,user201@mail.com,Egypt,2026-05-21,41.75,USD
+1372,user66@mail.com,Egypt,2026-02-19,107.23,USD
+1373,user302@mail.com,germany,2026-04-03,16.17,USD
+1374,user89@mail.com,Egypt,2026-03-28,117.58,USD
+1375,user242@mail.com,Germany,2026-10-07,26.35,USD
+1376,user252@mail.com,Germany,2026-07-12,37.65,USD
+1377,user51@mail.com,Germany,2026-04-27,55.24,USD
+1378,user160@mail.com,egypt ,2026-04-02,171.72,USD
+1379,user21@mail.com,Germany,2026-03-18,20.57,USD
+1380,user318@mail.com,germany,2026-06-30,61.68,USD
+1381,user90@mail.com,EGYPT,2026-01-13,20.22,USD
+1382,user199@mail.com,egypt ,2026-05-19,32.82,USD
+1383,user154@mail.com,Egypt,2026-05-23,43.13,USD
+1384,user162@mail.com,EGYPT,2026-08-23,35.33,USD
+1385,user259@mail.com,UK,2026-04-05,40.13,USD
+1386,user21@mail.com,EGYPT,2026-04-23,51.03,USD
+1387,user185@mail.com,usa,2026-06-06,16.65,USD
+1388,user99@mail.com,USA,2026-04-28,85.55,USD
+1389,user132@mail.com,UK,2026-06-29,25.28,USD
+1390,user98@mail.com,Germany,2026-04-21,18.09,USD
+1391,user11@mail.com,usa,2026-06-07,150.69,USD
+1392,user225@mail.com,USA,2026-06-06,42.86,USD
+1393,user89@mail.com,UK,2026-04-24,67.95,USD
+1394,user341@mail.com,USA,2026-07-09,41.55,USD
+1395,user156@mail.com,usa,2026-07-13,42.55,USD
+1396,user282@mail.com,Egypt,2026-08-18,142.2,USD
+1397,user75@mail.com,germany,2026-05-31,34.07,USD
+1398,user397@mail.com,USA,2026-05-26,-97.09,USD
+1399,user143@mail.com,Egypt,2026-06-11,245.16,USD
+1400,user55@mail.com,EGYPT,2026-10-12,63.66,USD
+1401,user208@mail.com,germany,2026-03-25,75.89,USD
+1402,user330@mail.com,usa,2026-04-28,126.29,USD
+1403,user22@mail.com,germany,2026-03-18,106.84,USD
+1404,user276@mail.com,Germany,2026-09-08,72.17,USD
+1405,user356@mail.com,germany,2026-08-08,60.7,USD
+1406,user128@mail.com,UK,2026-06-12,72.22,USD
+1407,user236@mail.com,egypt ,2026-03-19,30.9,USD
+1408,user120@mail.com,germany,2026-02-18,44.79,USD
+1409,user37@mail.com,Egypt,2026-10-13,30.54,USD
+1410,user74@mail.com,usa,2026-03-18,35.09,USD
+1411,user359@mail.com,Egypt,2026-03-10,62.06,USD
+1412,user78@mail.com,Germany,2026-05-04,57.86,USD
+1413,user291@mail.com,Egypt,31/02/2026,42.66,USD
+1414,user4@mail.com,egypt ,2026-05-05,34.1,USD
+1415,user126@mail.com,usa,2026-08-14,181.37,USD
+1416,user258@mail.com,Egypt,2026-07-25,65.91,USD
+1417,user349@mail.com,UK,2026-05-02,50.42,USD
+1418,user203@mail.com,UK,2026-10-06,109.57,USD
+1419,user346@mail.com,USA,2026-10-18,99.45,USD
+1420,user225@mail.com,USA,2026-03-27,116.24,USD
+1420,user225@mail.com,USA,2026-03-27,116.24,USD
+1421,user310@mail.com,usa,2026-02-02,24.08,USD
+1422,user117@mail.com,germany,2026-03-24,11.56,USD
+1423,user126@mail.com,egypt ,2026-09-09,323.44,USD
+1424,user89@mail.com,USA,2026-09-16,36.76,USD
+1425,user385@mail.com,germany,2026-02-16,29.92,USD
+1426,user328@mail.com,UK,2026-08-27,79.93,USD
+1427,user67@mail.com,UK,2026-08-05,88.92,USD
+1428,user189@mail.com,UK,31/02/2026,60.24,USD
+1429,user212@mail.com,USA,2026-04-01,25.5,USD
+1430,user310@mail.com,USA,2026-08-04,47.93,USD
+1431,user46@mail.com,Egypt,2026-06-20,54.58,USD
+1432,user394@mail.com,USA,2026-08-16,25.4,USD
+1433,user153@mail.com,Egypt,2026-02-07,29.42,USD
+1434,user231@mail.com,Germany,2026-05-28,35.67,USD
+1435,user139@mail.com,Germany,2026-06-26,35.23,USD
+1435,user139@mail.com,Germany,2026-06-26,35.23,USD
+1436,user386@mail.com,Germany,2026-08-21,39.8,USD
+1437,,USA,2026-01-13,56.62,USD
+1438,user99@mail.com,Egypt,2026-04-06,18.57,USD
+1439,user292@mail.com,egypt ,31/02/2026,57.11,USD
+1440,user247@mail.com,UK,2026-05-19,,USD
+1441,user156@mail.com,UK,2026-05-20,52.24,USD
+1442,user267@mail.com,egypt ,2026-04-15,24.97,USD
+1443,user385@mail.com,usa,2026-05-19,51.76,USD
+1444,user120@mail.com,USA,2026-07-09,36.04,USD
+1445,user288@mail.com,EGYPT,2026-09-01,21.79,USD
+1446,user262@mail.com,USA,2026-01-18,19.92,USD
+1447,user87@mail.com,germany,2026-08-11,45.82,USD
+1447,user87@mail.com,germany,2026-08-11,45.82,USD
+1448,user16@mail.com,UK,2026-04-29,43.8,USD
+1449,user360@mail.com,EGYPT,31/02/2026,65.8,USD
+1450,user98@mail.com,USA,2026-10-01,52.55,USD
+1451,user123@mail.com,germany,2026-04-04,62.83,USD
+1452,user316@mail.com,Egypt,2026-05-03,83.46,USD
+1453,user284@mail.com,USA,2026-03-25,47.03,USD
+1453,user284@mail.com,USA,2026-03-25,47.03,USD
+1454,user33@mail.com,EGYPT,2026-04-26,-109.27,USD
+1455,user1@mail.com,egypt ,2026-04-12,31.39,USD
+1456,user141@mail.com,egypt ,2026-09-13,59.46,USD
+1457,user312@mail.com,egypt ,2026-07-02,20.89,USD
+1457,user312@mail.com,egypt ,2026-07-02,20.89,USD
+1458,user149@mail.com,germany,2026-02-26,71.03,USD
+1459,user310@mail.com,Germany,2026-06-22,36.51,USD
+1460,user337@mail.com,Egypt,2026-02-11,71.64,USD
+1461,user64@mail.com,EGYPT,2026-01-22,158.23,USD
+1462,user167@mail.com,germany,2026-03-04,43.41,USD
+1463,user77@mail.com,usa,2026-07-02,282.3,USD
+1464,user347@mail.com,egypt ,2026-09-17,12.67,USD
+1465,user43@mail.com,usa,2026-09-11,40.78,USD
+1466,user291@mail.com,UK,2026-06-06,56.62,USD
+1467,user86@mail.com,Egypt,2026-01-22,123.27,USD
+1468,user303@mail.com,USA,2026-08-03,29.6,USD
+1469,user378@mail.com,egypt ,2026-03-22,38.4,USD
+1470,user233@mail.com,EGYPT,2026-06-22,,USD
+1471,user37@mail.com,Egypt,2026-08-28,44.34,USD
+1472,user220@mail.com,usa,2026-01-30,101.25,USD
+1473,user345@mail.com,usa,2026-01-21,79.19,USD
+1474,user98@mail.com,Egypt,2026-05-06,44.03,USD
+1475,user175@mail.com,egypt ,2026-07-21,25.48,USD
+1476,user194@mail.com,UK,2026-09-04,24.43,USD
+1477,user67@mail.com,UK,2026-07-24,43.32,USD
+1478,user388@mail.com,germany,2026-01-29,36.13,USD
+1479,user332@mail.com,germany,2026-10-02,45.48,USD
+1480,user290@mail.com,USA,2026-01-03,249.95,USD
+1481,user193@mail.com,Egypt,2026-03-07,41.19,USD
+1482,user355@mail.com,USA,2026-08-27,92.06,USD
+1483,user52@mail.com,usa,2026-08-01,49.47,USD
+1484,user111@mail.com,EGYPT,2026-09-23,37.61,USD
+1485,user1@mail.com,germany,2026-09-09,100.25,USD
+1486,user81@mail.com,germany,2026-03-17,23.1,USD
+1487,user119@mail.com,USA,2026-05-21,39.52,USD
+1488,user141@mail.com,USA,2026-09-01,36.95,USD
+1489,user38@mail.com,usa,2026-10-25,86.51,USD
+1490,user280@mail.com,USA,2026-05-03,32.14,USD
+1491,user384@mail.com,germany,2026-03-15,72.83,USD
+1492,user166@mail.com,USA,2026-01-05,86.1,USD
+1493,user149@mail.com,EGYPT,2026-02-08,,USD
+1494,user152@mail.com,USA,2026-10-12,35.73,USD
+1495,user272@mail.com,Germany,2026-07-28,67.02,USD
+1496,,USA,2026-08-13,22.17,USD
+1497,user119@mail.com,germany,2026-10-12,42.79,USD
+1498,user293@mail.com,UK,2026-08-31,45.45,USD
+1499,user12@mail.com,germany,2026-07-08,87.78,USD
+1500,user276@mail.com,Egypt,2026-02-10,36.44,USD
+1501,user134@mail.com,Germany,2026-02-19,-135.05,USD
+1502,user196@mail.com,USA,2026-01-19,,USD
+1503,user97@mail.com,UK,2026-10-14,78.97,USD
+1504,user227@mail.com,Egypt,2026-07-25,13.82,USD
+1505,user62@mail.com,Germany,2026-03-10,15.28,USD
+1506,user6@mail.com,egypt ,2026-06-21,72.22,USD
+1507,user238@mail.com,usa,2026-06-15,178.58,USD
+1508,user327@mail.com,UK,2026-05-02,17.75,USD
+1509,user139@mail.com,egypt ,2026-08-02,81.97,USD
+1510,user48@mail.com,usa,2026-09-04,20.87,USD
+1511,user313@mail.com,Egypt,2026-01-07,23.18,USD
+1512,user211@mail.com,Egypt,2026-10-09,72.7,USD
+1513,user211@mail.com,egypt ,2026-06-28,109.41,USD
+1514,user173@mail.com,Egypt,2026-05-15,127.08,USD
+1515,user362@mail.com,EGYPT,2026-06-28,22.07,USD
+1516,user89@mail.com,Egypt,2026-05-30,58.03,USD
+1517,user214@mail.com,Germany,2026-04-06,37.77,USD
+1518,user78@mail.com,Egypt,2026-06-18,47.5,USD
+1519,user183@mail.com,usa,2026-03-19,125.06,USD
+1519,user183@mail.com,usa,2026-03-19,125.06,USD
+1520,user377@mail.com,UK,2026-10-12,90.56,USD
+1521,user144@mail.com,USA,2026-02-09,30.42,USD
+1522,user334@mail.com,Germany,2026-10-27,74.31,USD
+1523,,Egypt,2026-02-07,37.72,USD
+1524,user78@mail.com,EGYPT,2026-06-22,59.76,USD
+1525,user357@mail.com,Egypt,2026-05-10,67.81,USD
+1526,user109@mail.com,egypt ,2026-06-18,27.52,USD
+1527,user217@mail.com,Germany,2026-08-11,16.72,USD
+1528,user395@mail.com,germany,2026-06-04,46.55,USD
+1529,user43@mail.com,egypt ,2026-10-24,54.46,USD
+1530,user395@mail.com,Germany,2026-06-14,227.86,USD
+1531,user49@mail.com,germany,2026-01-26,47.76,USD
+1532,user6@mail.com,Egypt,2026-06-19,14.92,USD
+1533,user196@mail.com,egypt ,2026-06-28,65.52,USD
+1534,user362@mail.com,EGYPT,2026-02-20,58.59,USD
+1535,user173@mail.com,Egypt,2026-09-12,239.54,USD
+1536,user208@mail.com,Germany,2026-07-19,132.12,USD
+1537,user106@mail.com,egypt ,2026-09-04,64.31,USD
+1538,user162@mail.com,usa,2026-03-20,-134.01,USD
+1539,user198@mail.com,germany,2026-06-26,47.19,USD
+1540,user46@mail.com,USA,2026-02-15,40.28,USD
+1541,user205@mail.com,egypt ,2026-07-31,46.73,USD
+1542,user300@mail.com,UK,2026-08-26,19.55,USD
+1543,user234@mail.com,Germany,2026-09-06,54.18,USD
+1544,user257@mail.com,Germany,2026-03-23,75.63,USD
+1545,user345@mail.com,Egypt,2026-07-14,174.4,USD
+1546,user116@mail.com,usa,2026-07-25,49.74,USD
+1547,user169@mail.com,germany,2026-02-21,70.65,USD
+1548,user325@mail.com,egypt ,2026-04-27,24.04,USD
+1549,user100@mail.com,germany,2026-08-09,102.05,USD
+1550,user289@mail.com,USA,2026-04-10,42.15,USD
+1551,user181@mail.com,Egypt,2026-10-07,26.76,USD
+1552,user236@mail.com,EGYPT,2026-08-03,44.42,USD
+1553,,egypt ,2026-10-14,29.06,USD
+1554,user119@mail.com,EGYPT,2026-10-08,52.39,USD
+1555,user67@mail.com,UK,2026-06-02,53.8,USD
+1556,user251@mail.com,USA,2026-10-08,56.23,USD
+1557,user182@mail.com,usa,2026-02-20,110.01,USD
+1558,user235@mail.com,Egypt,2026-06-04,-20.35,USD
+1559,user202@mail.com,germany,2026-04-19,68.02,USD
+1560,user197@mail.com,Germany,2026-06-12,54.96,USD
+1561,user119@mail.com,USA,2026-09-24,52.57,USD
+1562,user364@mail.com,usa,2026-10-01,80.98,USD
+1563,user116@mail.com,Egypt,31/02/2026,40.82,USD
+1564,user276@mail.com,USA,2026-10-05,70.83,USD
+1565,,EGYPT,2026-01-07,51.77,USD
+1566,user249@mail.com,usa,2026-07-22,97.32,USD
+1567,user176@mail.com,Egypt,2026-02-05,77.95,USD
+1568,user252@mail.com,USA,2026-06-13,84.5,USD
+1569,user107@mail.com,germany,2026-10-01,43.69,USD
+1570,user48@mail.com,usa,2026-10-13,82.24,USD
+1571,user115@mail.com,EGYPT,2026-04-28,58.0,USD
+1572,user374@mail.com,egypt ,2026-10-19,39.79,USD
+1573,user354@mail.com,Germany,2026-04-19,105.04,USD
+1574,user209@mail.com,usa,2026-07-05,31.85,USD
+1575,user191@mail.com,USA,2026-09-09,21.16,USD
+1576,user246@mail.com,USA,2026-03-01,23.59,USD
+1577,user262@mail.com,USA,31/02/2026,30.16,USD
+1578,user176@mail.com,UK,2026-04-18,90.53,USD
+1579,user258@mail.com,egypt ,2026-07-03,13.31,USD
+1580,user215@mail.com,EGYPT,2026-06-03,26.77,USD
+1581,user226@mail.com,USA,2026-01-06,36.69,USD
+1582,user57@mail.com,germany,2026-08-19,36.44,USD
+1583,user273@mail.com,UK,2026-01-09,24.15,USD
+1583,user273@mail.com,UK,2026-01-09,24.15,USD
+1584,user393@mail.com,egypt ,2026-06-25,87.92,USD
+1585,user77@mail.com,USA,2026-02-26,47.35,USD
+1585,user77@mail.com,USA,2026-02-26,47.35,USD
+1586,user357@mail.com,usa,2026-01-17,34.49,USD
+1587,user184@mail.com,UK,2026-09-28,44.51,USD
+1588,user345@mail.com,egypt ,2026-04-09,119.97,USD
+1589,user56@mail.com,Egypt,2026-07-30,31.19,USD
+1590,user216@mail.com,EGYPT,2026-04-04,8.43,USD
+1591,user384@mail.com,egypt ,2026-09-06,91.98,USD
+1592,user89@mail.com,EGYPT,2026-08-31,21.02,USD
+1593,user375@mail.com,Germany,2026-10-13,16.28,USD
+1594,user65@mail.com,Egypt,2026-06-17,48.38,USD
+1595,not-an-email,egypt ,2026-06-10,77.31,USD
+1596,user400@mail.com,egypt ,2026-01-18,100.09,USD
+1597,user180@mail.com,USA,2026-04-20,33.29,USD
+1598,user344@mail.com,Egypt,2026-04-16,85.07,USD
+1599,user392@mail.com,UK,2026-03-09,188.73,USD
+1600,user180@mail.com,egypt ,2026-06-21,12.07,USD
+1601,user368@mail.com,germany,2026-06-28,16.36,USD
+1602,user61@mail.com,UK,2026-03-04,12.71,USD
+1603,user226@mail.com,germany,2026-09-01,165.19,USD
+1604,user76@mail.com,UK,2026-07-13,26.65,USD
+1605,user363@mail.com,egypt ,2026-04-27,67.1,USD
+1606,user63@mail.com,UK,2026-06-11,50.11,USD
+1607,user259@mail.com,germany,2026-09-19,49.59,USD
+1608,user186@mail.com,usa,2026-06-05,40.38,USD
+1609,user211@mail.com,EGYPT,31/02/2026,40.46,USD
+1610,user226@mail.com,USA,2026-05-29,74.83,USD
+1611,user391@mail.com,germany,2026-09-27,67.09,USD
+1612,user104@mail.com,EGYPT,2026-01-04,31.23,USD
+1613,,UK,2026-09-24,31.15,USD
+1614,user182@mail.com,usa,2026-01-26,48.5,USD
+1615,,germany,2026-10-03,77.77,USD
+1616,user86@mail.com,germany,31/02/2026,62.06,USD
+1617,user40@mail.com,USA,2026-04-07,23.43,USD
+1618,user56@mail.com,germany,2026-08-28,131.33,USD
+1619,user78@mail.com,USA,2026-06-13,61.55,USD
+1620,user17@mail.com,EGYPT,2026-10-16,35.55,USD
+1621,user72@mail.com,UK,2026-04-17,186.67,USD
+1622,user204@mail.com,USA,2026-01-04,214.31,USD
+1623,user321@mail.com,germany,2026-09-10,105.96,USD
+1624,user131@mail.com,UK,2026-06-06,73.72,USD
+1625,user333@mail.com,UK,2026-02-08,70.24,USD
+1626,user343@mail.com,EGYPT,2026-10-16,-54.21,USD
+1627,user129@mail.com,USA,2026-08-26,-84.3,USD
+1628,user57@mail.com,UK,2026-10-16,68.74,USD
+1629,user211@mail.com,Germany,2026-02-01,193.32,USD
+1630,user215@mail.com,Egypt,2026-05-23,40.87,USD
+1631,user178@mail.com,Egypt,2026-04-21,33.3,USD
+1632,user69@mail.com,egypt ,2026-07-29,18.05,USD
+1633,user378@mail.com,egypt ,2026-03-30,56.2,USD
+1634,user47@mail.com,Germany,2026-02-04,113.52,USD
+1635,user116@mail.com,Egypt,2026-08-28,57.46,USD
+1636,user293@mail.com,usa,2026-05-20,13.06,USD
+1637,user111@mail.com,germany,2026-06-13,29.22,USD
+1638,user179@mail.com,UK,2026-01-09,45.1,USD
+1639,user73@mail.com,EGYPT,2026-01-13,70.0,USD
+1640,,EGYPT,2026-01-16,94.1,USD
+1641,user109@mail.com,USA,2026-05-19,36.37,USD
+1642,user185@mail.com,Egypt,2026-05-12,72.3,USD
+1643,user352@mail.com,UK,2026-10-15,29.68,USD
+1644,user4@mail.com,UK,2026-10-20,27.83,USD
+1645,user162@mail.com,usa,2026-07-22,31.33,USD
+1646,user280@mail.com,USA,2026-03-09,43.87,USD
+1647,not-an-email,Egypt,2026-06-01,128.36,USD
+1648,user222@mail.com,germany,2026-07-23,93.8,USD
+1649,user142@mail.com,Egypt,2026-02-26,60.36,USD
+1650,user16@mail.com,EGYPT,2026-07-05,15.59,USD
+1651,user23@mail.com,germany,2026-09-14,73.89,USD
+1652,user207@mail.com,USA,2026-08-16,205.22,USD
+1653,user278@mail.com,EGYPT,2026-04-24,50.93,USD
+1654,user21@mail.com,EGYPT,2026-09-24,72.56,USD
+1655,user187@mail.com,usa,2026-04-30,76.21,USD
+1656,user59@mail.com,Egypt,2026-04-19,32.33,USD
+1657,user230@mail.com,usa,2026-03-08,187.51,USD
+1658,user152@mail.com,germany,2026-09-04,122.23,USD
+1658,user152@mail.com,germany,2026-09-04,122.23,USD
+1659,user117@mail.com,Egypt,2026-10-01,63.63,USD
+1660,user185@mail.com,germany,2026-06-21,31.5,USD
+1661,user377@mail.com,Germany,2026-05-24,21.26,USD
+1662,user385@mail.com,Egypt,2026-01-07,70.17,USD
+1663,user342@mail.com,EGYPT,2026-06-13,74.63,USD
+1664,user10@mail.com,Germany,2026-08-19,27.58,USD
+1665,user47@mail.com,EGYPT,2026-04-05,36.2,USD
+1666,user285@mail.com,egypt ,2026-06-02,51.17,USD
+1667,user71@mail.com,germany,2026-09-08,51.69,USD
+1667,user71@mail.com,germany,2026-09-08,51.69,USD
+1668,user301@mail.com,usa,2026-04-25,22.32,USD
+1669,user47@mail.com,Egypt,2026-04-27,54.83,USD
+1670,user369@mail.com,UK,2026-02-08,55.84,USD
+1670,user369@mail.com,UK,2026-02-08,55.84,USD
+1671,user107@mail.com,UK,2026-05-31,30.51,USD
+1672,user38@mail.com,usa,2026-09-10,12.37,USD
+1673,user218@mail.com,Germany,2026-10-03,57.98,USD
+1674,user217@mail.com,usa,2026-01-29,146.24,USD
+1675,user6@mail.com,UK,2026-05-24,67.35,USD
+1676,user1@mail.com,USA,2026-07-14,31.37,USD
+1677,user191@mail.com,egypt ,2026-08-29,207.1,USD
+1678,user311@mail.com,Germany,2026-08-06,116.95,USD
+1679,user321@mail.com,germany,2026-03-18,102.32,USD
+1680,user281@mail.com,usa,2026-07-19,27.04,USD
+1681,user37@mail.com,UK,2026-04-04,76.22,USD
+1682,user242@mail.com,germany,2026-01-01,71.32,USD
+1683,user203@mail.com,USA,2026-03-22,66.62,USD
+1684,user36@mail.com,Germany,2026-08-24,52.29,USD
+1685,user210@mail.com,usa,2026-05-22,54.1,USD
+1686,,usa,2026-08-30,99.76,USD
+1687,user89@mail.com,usa,2026-08-21,89.0,USD
+1688,user29@mail.com,UK,2026-09-19,52.79,USD
+1689,user125@mail.com,usa,2026-09-17,63.96,USD
+1690,user182@mail.com,EGYPT,2026-03-26,32.27,USD
+1691,,Germany,2026-09-07,14.03,USD
+1692,user258@mail.com,UK,2026-06-16,74.68,USD
+1693,user73@mail.com,EGYPT,2026-10-25,18.72,USD
+1694,user220@mail.com,Egypt,2026-02-01,165.02,USD
+1695,user87@mail.com,EGYPT,2026-07-13,45.04,USD
+1696,user213@mail.com,egypt ,2026-03-15,20.82,USD
+1697,user285@mail.com,usa,2026-04-30,,USD
+1698,user356@mail.com,germany,2026-10-15,95.7,USD
+1699,user288@mail.com,Germany,2026-05-30,37.67,USD
+1700,user315@mail.com,Germany,2026-06-02,48.46,USD
+1701,user171@mail.com,egypt ,31/02/2026,26.62,USD
+1702,user141@mail.com,germany,2026-02-11,95.8,USD
+1702,user141@mail.com,germany,2026-02-11,95.8,USD
+1703,user168@mail.com,USA,2026-08-21,45.73,USD
+1704,user171@mail.com,EGYPT,2026-09-08,81.81,USD
+1705,user75@mail.com,UK,2026-09-05,112.65,USD
+1706,user380@mail.com,usa,2026-01-11,27.09,USD
+1707,user132@mail.com,Germany,2026-04-28,50.34,USD
+1708,user15@mail.com,USA,2026-06-27,15.76,USD
+1709,user257@mail.com,Egypt,2026-03-21,29.88,USD
+1710,user9@mail.com,usa,2026-03-20,93.41,USD
+1711,user99@mail.com,egypt ,2026-03-03,21.44,USD
+1712,user212@mail.com,Germany,2026-06-26,89.06,USD
+1713,user394@mail.com,usa,31/02/2026,38.93,USD
+1714,user156@mail.com,egypt ,2026-08-27,81.67,USD
+1715,,Germany,2026-08-15,36.83,USD
+1716,user29@mail.com,UK,2026-02-27,131.83,USD
+1717,user193@mail.com,USA,2026-02-02,82.7,USD
+1718,user253@mail.com,Germany,2026-09-15,18.67,USD
+1719,user379@mail.com,USA,2026-05-28,-119.06,USD
+1720,user64@mail.com,USA,2026-08-20,30.12,USD
+1721,user119@mail.com,USA,2026-06-01,65.13,USD
+1722,user119@mail.com,Egypt,2026-04-11,88.93,USD
+1723,user395@mail.com,usa,31/02/2026,75.22,USD
+1724,user351@mail.com,germany,2026-02-03,127.24,USD
+1725,user237@mail.com,Germany,2026-08-27,84.57,USD
+1726,user178@mail.com,usa,2026-09-05,91.32,USD
+1727,user297@mail.com,EGYPT,2026-04-12,89.04,USD
+1728,user258@mail.com,egypt ,2026-09-12,61.85,USD
+1729,user35@mail.com,usa,2026-07-05,52.47,USD
+1730,user268@mail.com,EGYPT,2026-03-25,41.75,USD
+1731,user28@mail.com,germany,2026-05-24,26.82,USD
+1732,user210@mail.com,usa,2026-01-05,,USD
+1733,,USA,2026-02-03,16.51,USD
+1734,user120@mail.com,Egypt,2026-03-09,59.76,USD
+1735,user103@mail.com,germany,2026-04-16,21.28,USD
+1736,user152@mail.com,Egypt,2026-03-15,39.48,USD
+1737,user327@mail.com,Germany,2026-05-24,15.78,USD
+1738,user15@mail.com,Egypt,2026-04-08,227.7,USD
+1739,user12@mail.com,UK,2026-03-31,27.0,USD
+1740,user357@mail.com,EGYPT,2026-06-12,60.56,USD
+1741,user144@mail.com,USA,2026-08-05,18.01,USD
+1742,user314@mail.com,UK,2026-09-30,24.59,USD
+1743,user400@mail.com,USA,2026-09-16,134.0,USD
+1744,user303@mail.com,Egypt,2026-05-07,103.84,USD
+1745,user295@mail.com,USA,2026-07-07,27.28,USD
+1746,user227@mail.com,USA,2026-02-17,46.52,USD
+1747,user195@mail.com,UK,2026-05-08,37.65,USD
+1748,user366@mail.com,UK,2026-09-07,65.14,USD
+1749,user270@mail.com,Germany,2026-08-04,38.34,USD
+1750,user320@mail.com,USA,2026-01-01,31.62,USD
+1751,user109@mail.com,usa,2026-05-31,175.04,USD
+1752,user293@mail.com,germany,2026-01-20,,USD
+1753,user280@mail.com,egypt ,2026-03-27,103.06,USD
+1754,user397@mail.com,usa,2026-06-26,95.93,USD
+1755,,Germany,2026-09-06,39.29,USD
+1756,user135@mail.com,USA,2026-09-25,51.12,USD
+1757,user36@mail.com,UK,2026-03-27,47.44,USD
+1758,user183@mail.com,USA,2026-10-09,40.89,USD
+1759,user167@mail.com,usa,2026-01-28,30.2,USD
+1760,user197@mail.com,EGYPT,2026-02-24,40.67,USD
+1761,user360@mail.com,UK,2026-09-11,39.29,USD
+1762,user276@mail.com,usa,2026-01-09,318.91,USD
+1763,user71@mail.com,germany,2026-07-17,67.81,USD
+1764,user354@mail.com,egypt ,2026-08-17,45.95,USD
+1765,user187@mail.com,Germany,2026-07-12,,USD
+1766,user37@mail.com,germany,2026-01-17,17.05,USD
+1767,user195@mail.com,usa,2026-05-23,74.66,USD
+1768,user275@mail.com,USA,2026-01-03,49.89,USD
+1769,,EGYPT,2026-01-22,50.07,USD
+1770,user158@mail.com,UK,31/02/2026,106.08,USD
+1771,user224@mail.com,Egypt,31/02/2026,77.75,USD
+1772,user289@mail.com,USA,2026-01-02,54.79,USD
+1773,user363@mail.com,EGYPT,2026-07-14,123.67,USD
+1774,user326@mail.com,usa,2026-04-17,55.61,USD
+1775,,germany,2026-04-27,41.96,USD
+1776,user62@mail.com,EGYPT,2026-02-04,86.14,USD
+1777,user255@mail.com,usa,2026-09-18,7.94,USD
+1778,user87@mail.com,UK,2026-10-28,24.74,USD
+1779,user139@mail.com,Egypt,2026-03-09,37.11,USD
+1780,user327@mail.com,Egypt,2026-10-15,40.54,USD
+1781,user394@mail.com,Egypt,2026-04-10,37.48,USD
+1782,user3@mail.com,usa,2026-07-12,199.62,USD
+1783,user314@mail.com,EGYPT,2026-04-21,109.98,USD
+1784,user246@mail.com,germany,31/02/2026,230.87,USD
+1785,user172@mail.com,usa,2026-03-09,,USD
+1786,user158@mail.com,Egypt,2026-04-18,74.91,USD
+1787,,USA,2026-07-19,104.51,USD
+1788,user322@mail.com,usa,2026-02-21,36.12,USD
+1789,user332@mail.com,Germany,2026-05-09,-66.82,USD
+1790,user61@mail.com,usa,2026-01-10,40.65,USD
+1791,,Germany,2026-02-18,86.18,USD
+1792,user28@mail.com,Egypt,2026-02-15,51.35,USD
+1793,user118@mail.com,UK,2026-03-14,74.03,USD
+1794,user148@mail.com,UK,2026-07-29,72.81,USD
+1795,user202@mail.com,UK,2026-04-02,81.2,USD
+1796,user245@mail.com,germany,2026-07-24,53.05,USD
+1797,user18@mail.com,germany,2026-07-22,19.03,USD
+1798,user213@mail.com,germany,2026-05-05,37.7,USD
+1799,user14@mail.com,EGYPT,2026-10-17,37.25,USD
+1800,user7@mail.com,Germany,2026-03-11,212.03,USD
+1801,user255@mail.com,egypt ,2026-04-04,59.61,USD
+1802,user85@mail.com,germany,2026-04-30,61.39,USD
+1803,user18@mail.com,UK,2026-03-10,199.03,USD
+1804,user167@mail.com,Egypt,2026-04-16,68.41,USD
+1805,user118@mail.com,EGYPT,2026-08-24,147.97,USD
+1806,user37@mail.com,EGYPT,2026-01-18,133.2,USD
+1807,user14@mail.com,USA,2026-01-21,28.92,USD
+1808,user165@mail.com,Germany,31/02/2026,19.67,USD
+1809,user253@mail.com,egypt ,2026-04-27,129.57,USD
+1810,user184@mail.com,Germany,2026-07-03,56.84,USD
+1811,user274@mail.com,EGYPT,2026-06-11,66.12,USD
+1812,user118@mail.com,Egypt,2026-10-02,85.35,USD
+1813,user162@mail.com,USA,2026-06-07,81.14,USD
+1814,user260@mail.com,EGYPT,2026-09-12,40.29,USD
+1815,user169@mail.com,UK,2026-05-30,74.72,USD
+1816,user154@mail.com,germany,2026-04-10,85.91,USD
+1817,user368@mail.com,egypt ,2026-02-11,115.65,USD
+1818,user336@mail.com,UK,2026-05-01,34.62,USD
+1819,user381@mail.com,egypt ,2026-04-26,79.61,USD
+1820,user55@mail.com,Germany,2026-08-05,26.94,USD
+1821,user166@mail.com,egypt ,2026-09-08,85.78,USD
+1822,user101@mail.com,usa,2026-10-16,64.19,USD
+1823,user295@mail.com,usa,2026-06-06,29.52,USD
+1824,user107@mail.com,germany,2026-06-04,209.82,USD
+1825,user80@mail.com,EGYPT,2026-02-04,136.17,USD
+1826,user65@mail.com,egypt ,2026-01-07,65.97,USD
+1827,user142@mail.com,Germany,2026-05-30,21.63,USD
+1828,user115@mail.com,USA,2026-06-27,28.4,USD
+1829,user363@mail.com,USA,2026-10-06,28.12,USD
+1830,user60@mail.com,usa,2026-04-21,51.78,USD
+1831,user320@mail.com,USA,2026-05-26,133.98,USD
+1832,user307@mail.com,USA,2026-03-10,43.16,USD
+1833,not-an-email,egypt ,2026-09-24,27.69,USD
+1833,not-an-email,egypt ,2026-09-24,27.69,USD
+1834,user76@mail.com,egypt ,2026-03-05,24.35,USD
+1835,user341@mail.com,usa,2026-09-10,61.87,USD
+1836,user308@mail.com,egypt ,2026-05-07,47.23,USD
+1837,user265@mail.com,UK,2026-09-08,41.01,USD
+1838,user27@mail.com,usa,2026-06-30,64.15,USD
+1839,user290@mail.com,germany,2026-01-14,67.14,USD
+1840,user228@mail.com,Germany,2026-05-28,74.85,USD
+1841,user332@mail.com,usa,2026-05-07,82.27,USD
+1842,user117@mail.com,egypt ,2026-06-07,17.86,USD
+1843,user43@mail.com,Egypt,2026-06-05,12.52,USD
+1844,,usa,2026-02-17,143.08,USD
+1845,user28@mail.com,Egypt,2026-08-12,30.13,USD
+1846,user385@mail.com,UK,2026-05-26,14.99,USD
+1847,user5@mail.com,germany,2026-06-17,82.11,USD
+1848,user220@mail.com,USA,2026-06-29,21.7,USD
+1849,user224@mail.com,germany,31/02/2026,106.87,USD
+1850,user130@mail.com,Germany,2026-07-20,128.28,USD
+1851,user178@mail.com,germany,2026-07-14,67.9,USD
+1852,user394@mail.com,egypt ,2026-04-07,38.89,USD
+1853,not-an-email,Germany,2026-10-01,91.2,USD
+1854,user310@mail.com,USA,2026-03-22,66.67,USD
+1855,user284@mail.com,egypt ,2026-04-27,124.45,USD
+1855,user284@mail.com,egypt ,2026-04-27,124.45,USD
+1856,user349@mail.com,EGYPT,2026-02-12,61.74,USD
+1857,user6@mail.com,usa,2026-08-25,50.18,USD
+1858,user148@mail.com,usa,2026-09-22,82.25,USD
+1859,not-an-email,usa,2026-03-06,48.29,USD
+1859,not-an-email,usa,2026-03-06,48.29,USD
+1860,user64@mail.com,UK,2026-05-03,37.55,USD
+1861,user110@mail.com,EGYPT,2026-08-24,21.91,USD
+1862,user110@mail.com,usa,2026-07-02,82.26,USD
+1863,user380@mail.com,usa,2026-05-30,52.34,USD
+1864,user64@mail.com,egypt ,2026-06-16,33.91,USD
+1865,user141@mail.com,Germany,2026-07-27,47.54,USD
+1866,user115@mail.com,germany,2026-01-18,39.6,USD
+1867,user47@mail.com,egypt ,2026-02-20,51.58,USD
+1867,user47@mail.com,egypt ,2026-02-20,51.58,USD
+1868,user25@mail.com,UK,2026-07-17,48.46,USD
+1869,user47@mail.com,Germany,2026-07-05,23.08,USD
+1870,user290@mail.com,usa,2026-09-19,57.83,USD
+1871,user260@mail.com,usa,2026-01-09,73.32,USD
+1872,user87@mail.com,germany,2026-06-06,16.31,USD
+1873,user292@mail.com,EGYPT,2026-04-23,86.55,USD
+1874,user225@mail.com,Egypt,2026-03-18,42.67,USD
+1875,user288@mail.com,Egypt,2026-06-27,23.0,USD
+1876,user278@mail.com,Egypt,2026-01-16,71.09,USD
+1877,user349@mail.com,germany,2026-03-11,62.48,USD
+1878,user335@mail.com,USA,2026-04-17,42.73,USD
+1879,user92@mail.com,egypt ,2026-09-25,88.97,USD
+1880,user181@mail.com,germany,2026-10-11,,USD
+1881,user333@mail.com,USA,2026-05-09,43.41,USD
+1882,user192@mail.com,Egypt,2026-04-18,63.52,USD
+1883,user255@mail.com,Egypt,2026-04-27,297.48,USD
+1884,user276@mail.com,usa,2026-07-20,42.19,USD
+1885,user213@mail.com,USA,2026-08-22,-10.99,USD
+1886,user108@mail.com,UK,2026-08-07,57.64,USD
+1887,user329@mail.com,egypt ,2026-08-10,,USD
+1888,user101@mail.com,UK,2026-03-10,31.18,USD
+1889,user355@mail.com,UK,2026-04-07,63.03,USD
+1890,user144@mail.com,UK,2026-01-16,64.57,USD
+1891,user231@mail.com,UK,2026-02-19,119.02,USD
+1892,user27@mail.com,USA,2026-02-28,24.49,USD
+1893,user210@mail.com,egypt ,2026-01-31,21.53,USD
+1894,user143@mail.com,EGYPT,2026-05-01,59.44,USD
+1895,user174@mail.com,USA,2026-04-03,20.01,USD
+1896,user332@mail.com,Egypt,2026-03-02,203.25,USD
+1897,user361@mail.com,Germany,2026-08-07,105.88,USD
+1898,user126@mail.com,usa,2026-01-14,111.61,USD
+1899,user29@mail.com,Germany,2026-02-18,153.22,USD
+1900,user301@mail.com,egypt ,2026-06-17,27.04,USD
+1901,user126@mail.com,UK,2026-06-08,40.27,USD
+1902,user182@mail.com,USA,2026-10-18,27.86,USD
+1903,user110@mail.com,Germany,2026-01-26,16.48,USD
+1904,user362@mail.com,UK,2026-08-08,92.74,USD
+1905,,EGYPT,2026-09-02,89.65,USD
+1906,user13@mail.com,EGYPT,2026-08-23,61.31,USD
+1907,user93@mail.com,USA,2026-01-20,55.38,USD
+1908,user262@mail.com,USA,2026-05-09,39.76,USD
+1909,user231@mail.com,EGYPT,2026-07-13,14.33,USD
+1910,user148@mail.com,Germany,2026-07-12,38.17,USD
+1911,user353@mail.com,USA,2026-05-25,66.76,USD
+1912,user132@mail.com,UK,2026-08-06,111.53,USD
+1913,user58@mail.com,EGYPT,2026-10-08,79.53,USD
+1914,user84@mail.com,Egypt,31/02/2026,45.39,USD
+1915,user290@mail.com,EGYPT,2026-09-29,23.14,USD
+1916,user293@mail.com,egypt ,2026-05-17,113.49,USD
+1917,user249@mail.com,germany,2026-06-04,53.68,USD
+1918,,UK,2026-02-24,31.09,USD
+1919,user146@mail.com,Germany,2026-08-27,36.28,USD
+1920,user83@mail.com,Egypt,2026-03-29,,USD
+1921,user381@mail.com,Germany,2026-08-16,,USD
+1922,user270@mail.com,Egypt,2026-08-07,93.25,USD
+1923,user391@mail.com,USA,2026-03-22,73.1,USD
+1924,user218@mail.com,usa,2026-03-30,23.31,USD
+1925,user102@mail.com,EGYPT,31/02/2026,14.9,USD
+1926,user106@mail.com,Egypt,2026-01-03,47.82,USD
+1927,user374@mail.com,USA,31/02/2026,32.21,USD
+1928,user176@mail.com,Germany,2026-07-05,12.94,USD
+1929,user25@mail.com,USA,2026-02-11,25.32,USD
+1930,user367@mail.com,usa,2026-04-22,46.78,USD
+1931,user126@mail.com,Egypt,2026-02-11,26.46,USD
+1932,user238@mail.com,Egypt,2026-07-07,44.28,USD
+1933,,USA,2026-04-13,81.81,USD
+1934,user261@mail.com,UK,2026-05-25,,USD
+1935,user357@mail.com,USA,2026-03-05,39.47,USD
+1936,user237@mail.com,usa,2026-10-21,24.91,USD
+1937,user37@mail.com,UK,2026-08-06,161.31,USD
+1938,user65@mail.com,USA,2026-03-15,37.16,USD
+1939,user17@mail.com,Germany,2026-03-12,65.71,USD
+1940,user356@mail.com,Egypt,2026-08-01,86.26,USD
+1941,user297@mail.com,egypt ,2026-04-04,41.94,USD
+1942,user78@mail.com,germany,2026-09-23,49.31,USD
+1943,user243@mail.com,Germany,2026-06-26,49.93,USD
+1944,user137@mail.com,Egypt,2026-01-30,29.33,USD
+1945,user209@mail.com,Germany,2026-09-14,13.15,USD
+1946,user233@mail.com,EGYPT,2026-01-06,31.6,USD
+1947,user98@mail.com,usa,2026-03-13,38.96,USD
+1948,user15@mail.com,egypt ,2026-09-07,115.76,USD
+1949,user119@mail.com,EGYPT,2026-04-09,58.53,USD
+1950,user199@mail.com,USA,2026-10-20,64.75,USD
+1951,user366@mail.com,USA,2026-03-11,38.19,USD
+1952,user96@mail.com,EGYPT,2026-04-13,108.13,USD
+1953,user256@mail.com,UK,2026-07-09,111.29,USD
+1954,user311@mail.com,Egypt,2026-10-22,27.43,USD
+1955,user188@mail.com,usa,2026-01-27,101.89,USD
+1956,user297@mail.com,germany,2026-06-01,15.31,USD
+1957,user43@mail.com,Egypt,2026-07-17,25.45,USD
+1958,user101@mail.com,egypt ,2026-01-14,15.35,USD
+1959,user102@mail.com,usa,2026-09-25,36.64,USD
+1960,user385@mail.com,egypt ,2026-06-08,39.77,USD
+1961,,germany,2026-05-17,38.53,USD
+1962,user78@mail.com,egypt ,2026-07-04,17.28,USD
+1963,user97@mail.com,USA,2026-02-24,134.35,USD
+1964,user290@mail.com,UK,2026-03-03,35.19,USD
+1965,user262@mail.com,Egypt,2026-08-17,117.07,USD
+1966,user158@mail.com,UK,2026-08-21,93.91,USD
+1967,user195@mail.com,EGYPT,2026-01-15,35.52,USD
+1968,user122@mail.com,Egypt,2026-01-27,27.18,USD
+1969,,germany,2026-04-20,44.03,USD
+1970,user256@mail.com,USA,2026-06-22,42.9,USD
+1971,user289@mail.com,Egypt,2026-06-30,43.78,USD
+1972,user119@mail.com,usa,31/02/2026,40.82,USD
+1973,user315@mail.com,germany,2026-02-22,17.09,USD
+1974,user215@mail.com,Germany,2026-10-26,24.44,USD
+1975,user221@mail.com,Egypt,2026-02-02,271.73,USD
+1976,user397@mail.com,usa,2026-06-04,29.06,USD
+1977,not-an-email,germany,2026-08-23,64.8,USD
+1978,user152@mail.com,usa,2026-10-03,71.25,USD
+1979,user395@mail.com,egypt ,2026-03-29,40.67,USD
+1980,user221@mail.com,germany,2026-03-30,90.35,USD
+1981,user150@mail.com,EGYPT,2026-07-21,57.0,USD
+1982,user211@mail.com,usa,31/02/2026,89.47,USD
+1983,user59@mail.com,Germany,2026-04-29,18.09,USD
+1984,user302@mail.com,usa,2026-07-09,104.93,USD
+1985,user309@mail.com,EGYPT,2026-10-19,52.28,USD
+1986,user5@mail.com,usa,2026-03-30,48.91,USD
+1987,user198@mail.com,usa,2026-01-25,81.79,USD
+1988,user70@mail.com,EGYPT,2026-05-29,30.74,USD
+1989,user44@mail.com,UK,2026-03-01,47.78,USD
+1990,user235@mail.com,EGYPT,2026-07-23,107.11,USD
+1991,user353@mail.com,Germany,2026-07-20,121.56,USD
+1992,user146@mail.com,Germany,2026-04-07,102.18,USD
+1993,user44@mail.com,germany,2026-04-08,62.39,USD
+1994,user128@mail.com,egypt ,2026-10-18,182.93,USD
+1995,user269@mail.com,USA,2026-04-06,43.45,USD
+1996,user287@mail.com,egypt ,2026-06-17,20.82,USD
+1997,user358@mail.com,germany,2026-01-02,52.35,USD
+1997,user358@mail.com,germany,2026-01-02,52.35,USD
+1998,user210@mail.com,germany,2026-08-21,83.11,USD
+1999,user320@mail.com,Germany,2026-09-10,62.43,USD
+2000,user178@mail.com,Egypt,2026-06-28,106.66,USD
+2001,user160@mail.com,EGYPT,2026-10-19,49.86,USD
+2002,user341@mail.com,egypt ,2026-07-09,24.94,USD
+2002,user341@mail.com,egypt ,2026-07-09,24.94,USD
+2003,user302@mail.com,Germany,2026-03-13,19.81,USD
+2004,user212@mail.com,USA,2026-10-15,69.47,USD
+2005,user290@mail.com,USA,2026-04-08,37.25,USD
+2006,user225@mail.com,USA,31/02/2026,37.12,USD
+2007,user167@mail.com,usa,2026-07-06,58.2,USD
+2008,user307@mail.com,usa,2026-06-08,94.0,USD
+2009,user123@mail.com,usa,2026-09-18,64.87,USD
+2010,user242@mail.com,USA,2026-10-15,109.1,USD
+2011,user88@mail.com,usa,2026-08-06,17.58,USD
+2012,,EGYPT,2026-03-06,17.98,USD
+2013,user348@mail.com,Germany,2026-10-07,118.21,USD
+2014,user160@mail.com,usa,2026-07-24,169.75,USD
+2015,user108@mail.com,germany,2026-08-29,89.28,USD
+2016,user356@mail.com,egypt ,2026-02-01,29.01,USD
+2017,user192@mail.com,egypt ,2026-06-08,16.11,USD
+2018,user328@mail.com,egypt ,2026-04-30,194.46,USD
+2019,user374@mail.com,Germany,2026-01-05,30.26,USD
+2020,user94@mail.com,usa,2026-03-07,32.67,USD
+2021,user65@mail.com,Egypt,2026-05-22,32.44,USD
+2022,user50@mail.com,germany,2026-04-09,16.1,USD
+2023,user36@mail.com,germany,2026-10-28,69.72,USD
+2024,user58@mail.com,Germany,2026-05-20,87.16,USD
+2025,user36@mail.com,usa,31/02/2026,64.19,USD
+2026,user73@mail.com,EGYPT,2026-09-14,16.18,USD
+2027,user176@mail.com,germany,2026-06-27,-125.47,USD
+2028,,UK,2026-01-10,20.94,USD
+2029,user11@mail.com,germany,2026-06-26,281.06,USD
+2030,user294@mail.com,UK,2026-07-29,32.86,USD
+2031,user395@mail.com,USA,2026-01-31,176.72,USD
+2032,user394@mail.com,egypt ,2026-01-09,95.0,USD
+2033,user158@mail.com,usa,2026-08-20,36.38,USD
+2034,user139@mail.com,germany,2026-01-10,131.92,USD
+2035,user179@mail.com,Germany,2026-02-13,29.28,USD
+2036,user326@mail.com,egypt ,2026-05-11,-37.06,USD
+2037,user271@mail.com,Germany,2026-08-13,180.61,USD
+2038,user325@mail.com,EGYPT,2026-01-11,10.11,USD
+2039,user304@mail.com,EGYPT,2026-03-25,49.44,USD
+2040,user189@mail.com,egypt ,2026-04-09,140.67,USD
+2041,user289@mail.com,Germany,2026-01-05,124.7,USD
+2042,user167@mail.com,germany,2026-03-24,28.05,USD
+2043,user128@mail.com,Germany,2026-01-28,63.44,USD
+2044,user395@mail.com,USA,2026-03-14,129.9,USD
+2045,user210@mail.com,egypt ,2026-07-20,55.5,USD
+2046,user249@mail.com,egypt ,2026-04-12,17.05,USD
+2047,user134@mail.com,germany,2026-06-18,43.01,USD
+2048,user8@mail.com,Egypt,2026-02-24,29.13,USD
+2049,user336@mail.com,usa,2026-03-29,74.86,USD
+2050,user173@mail.com,USA,2026-06-21,68.21,USD
+2051,user350@mail.com,egypt ,2026-03-27,24.84,USD
+2052,user31@mail.com,usa,2026-06-23,32.24,USD
+2053,user174@mail.com,USA,2026-10-17,83.26,USD
+2054,user257@mail.com,egypt ,2026-03-30,83.77,USD
+2055,user66@mail.com,UK,2026-06-27,40.97,USD
+2056,user308@mail.com,usa,31/02/2026,43.7,USD
+2057,user249@mail.com,egypt ,2026-02-06,39.2,USD
+2058,user219@mail.com,germany,2026-06-26,39.23,USD
+2059,user145@mail.com,usa,2026-04-24,23.25,USD
+2060,user73@mail.com,USA,2026-04-24,78.94,USD
+2061,user138@mail.com,Germany,2026-08-07,28.24,USD
+2062,user257@mail.com,EGYPT,2026-04-30,26.98,USD
+2063,user76@mail.com,USA,2026-07-05,57.34,USD
+2064,user358@mail.com,Germany,2026-08-19,64.3,USD
+2065,user202@mail.com,usa,31/02/2026,70.32,USD
+2066,user78@mail.com,egypt ,2026-10-20,69.81,USD
+2067,user260@mail.com,USA,2026-09-17,49.79,USD
+2068,user278@mail.com,Germany,2026-07-04,83.19,USD
+2069,user227@mail.com,UK,2026-05-29,,USD
+2070,user142@mail.com,germany,2026-03-20,10.8,USD
+2071,user112@mail.com,egypt ,2026-05-09,61.89,USD
+2072,user182@mail.com,EGYPT,2026-06-05,39.99,USD
+2073,user285@mail.com,EGYPT,2026-09-24,92.86,USD
+2074,user309@mail.com,EGYPT,2026-09-30,52.27,USD
+2075,user271@mail.com,Egypt,2026-01-25,150.76,USD
+2076,user55@mail.com,germany,2026-08-05,261.89,USD
+2077,user101@mail.com,UK,2026-07-27,64.32,USD
+2078,user221@mail.com,USA,2026-10-22,109.01,USD
+2079,user203@mail.com,USA,2026-01-06,111.75,USD
+2080,user252@mail.com,EGYPT,31/02/2026,23.21,USD
+2081,user396@mail.com,Germany,2026-03-22,18.84,USD
+2082,user169@mail.com,usa,2026-01-21,25.49,USD
+2083,user228@mail.com,USA,2026-05-19,99.05,USD
+2084,user259@mail.com,USA,2026-10-07,17.21,USD
+2085,user373@mail.com,Egypt,2026-06-26,119.76,USD
+2086,user231@mail.com,EGYPT,2026-08-18,316.99,USD
+2087,user47@mail.com,UK,2026-07-29,73.33,USD
+2088,not-an-email,germany,2026-03-21,74.07,USD
+2089,user382@mail.com,EGYPT,2026-10-23,93.52,USD
+2090,user194@mail.com,EGYPT,2026-07-11,84.83,USD
+2091,user327@mail.com,usa,2026-04-14,53.08,USD
+2092,user158@mail.com,UK,2026-03-10,110.38,USD
+2093,user272@mail.com,Germany,2026-08-30,71.49,USD
+2094,user41@mail.com,egypt ,2026-01-25,65.67,USD
+2095,user165@mail.com,USA,2026-05-31,178.39,USD
+2095,user165@mail.com,USA,2026-05-31,178.39,USD
+2096,user266@mail.com,Germany,2026-10-26,36.39,USD
+2097,user207@mail.com,usa,2026-09-12,27.03,USD
+2098,not-an-email,Egypt,2026-05-25,142.93,USD
+2099,user6@mail.com,egypt ,2026-10-07,47.25,USD
+2099,user6@mail.com,egypt ,2026-10-07,47.25,USD
+2100,,UK,2026-07-17,36.89,USD
+2101,user81@mail.com,Germany,2026-02-03,25.95,USD
+2102,user140@mail.com,EGYPT,2026-10-06,43.63,USD
+2103,user164@mail.com,usa,2026-06-26,12.46,USD
+2104,user323@mail.com,Egypt,2026-10-08,81.59,USD
+2105,user370@mail.com,Egypt,2026-07-15,111.27,USD
+2106,user159@mail.com,egypt ,2026-04-30,47.5,USD
+2107,user219@mail.com,egypt ,2026-05-09,51.56,USD
+2108,user149@mail.com,USA,2026-04-19,62.06,USD
+2108,user149@mail.com,USA,2026-04-19,62.06,USD
+2109,user265@mail.com,Egypt,2026-07-30,60.81,USD
+2110,user195@mail.com,UK,2026-01-06,35.68,USD
+2111,user139@mail.com,egypt ,2026-06-30,115.01,USD
+2112,,Egypt,2026-03-04,49.56,USD
+2113,user175@mail.com,usa,2026-03-28,192.53,USD
+2114,user178@mail.com,germany,2026-04-11,71.25,USD
+2115,user397@mail.com,germany,2026-04-08,90.56,USD
+2116,,Egypt,2026-09-18,148.83,USD
+2117,user44@mail.com,USA,2026-10-03,36.89,USD
+2118,user135@mail.com,EGYPT,2026-10-12,85.05,USD
+2119,user169@mail.com,egypt ,2026-08-08,100.35,USD
+2120,user86@mail.com,germany,2026-03-15,122.83,USD
+2121,user392@mail.com,Germany,2026-10-11,28.1,USD
+2122,user224@mail.com,egypt ,2026-01-14,15.93,USD
+2123,user301@mail.com,egypt ,2026-06-25,46.89,USD
+2124,not-an-email,usa,2026-05-12,53.26,USD
+2124,not-an-email,usa,2026-05-12,53.26,USD
+2125,user87@mail.com,usa,2026-07-26,21.9,USD
+2126,user359@mail.com,USA,2026-07-10,10.58,USD
+2127,user317@mail.com,EGYPT,2026-02-18,25.79,USD
+2128,user123@mail.com,Germany,2026-05-18,30.96,USD
+2129,user249@mail.com,Germany,2026-05-03,92.89,USD
+2130,user308@mail.com,EGYPT,2026-05-20,34.76,USD
+2131,user236@mail.com,Germany,2026-05-19,80.26,USD
+2132,user63@mail.com,USA,2026-03-12,33.14,USD
+2133,user56@mail.com,UK,2026-10-01,82.33,USD
+2134,user35@mail.com,Germany,2026-03-31,17.93,USD
+2135,user222@mail.com,usa,2026-03-02,50.16,USD
+2136,user193@mail.com,Germany,2026-04-29,33.91,USD
+2137,user96@mail.com,EGYPT,2026-10-24,37.92,USD
+2138,user62@mail.com,UK,2026-10-11,47.43,USD
+2139,user173@mail.com,EGYPT,2026-04-02,31.98,USD
+2140,user128@mail.com,germany,2026-03-08,41.31,USD
+2141,user43@mail.com,Egypt,2026-02-28,21.46,USD
+2142,user364@mail.com,usa,2026-04-21,76.87,USD
+2143,user312@mail.com,EGYPT,31/02/2026,12.16,USD
+2144,user17@mail.com,UK,2026-09-16,77.53,USD
+2145,user96@mail.com,germany,2026-05-19,61.91,USD
+2145,user96@mail.com,germany,2026-05-19,61.91,USD
+2146,user241@mail.com,egypt ,2026-05-08,68.78,USD
+2147,user286@mail.com,UK,2026-07-27,18.33,USD
+2148,user119@mail.com,UK,2026-03-07,43.02,USD
+2149,user223@mail.com,EGYPT,2026-09-23,55.52,USD
+2150,user129@mail.com,usa,2026-02-03,208.68,USD
+2151,user255@mail.com,germany,2026-04-26,100.91,USD
+2152,user324@mail.com,germany,2026-09-20,27.47,USD
+2153,user244@mail.com,UK,2026-09-26,110.18,USD
+2154,user8@mail.com,usa,2026-06-08,27.73,USD
+2155,user34@mail.com,egypt ,2026-03-14,438.09,USD
+2156,user311@mail.com,egypt ,2026-08-28,781.01,USD
+2157,user95@mail.com,UK,2026-05-18,81.46,USD
+2158,user38@mail.com,germany,2026-10-07,163.55,USD
+2159,user107@mail.com,Germany,2026-02-25,32.43,USD
+2160,user180@mail.com,Germany,2026-03-11,84.39,USD
+2161,user372@mail.com,egypt ,2026-05-19,91.68,USD
+2162,user212@mail.com,USA,2026-07-23,38.18,USD
+2163,user263@mail.com,EGYPT,2026-09-18,80.33,USD
+2164,user137@mail.com,usa,2026-07-22,23.1,USD
+2165,user257@mail.com,EGYPT,2026-09-27,141.26,USD
+2166,user94@mail.com,USA,2026-08-08,59.17,USD
+2167,user335@mail.com,Egypt,2026-06-28,320.23,USD
+2168,user221@mail.com,usa,2026-08-21,51.06,USD
+2169,user375@mail.com,USA,2026-06-17,48.83,USD
+2170,user119@mail.com,germany,2026-08-06,25.84,USD
+2171,,EGYPT,2026-07-24,57.11,USD
+2172,user247@mail.com,germany,2026-01-18,69.07,USD
+2173,user256@mail.com,Egypt,2026-09-10,128.33,USD
+2174,user245@mail.com,Germany,2026-01-20,38.34,USD
+2174,user245@mail.com,Germany,2026-01-20,38.34,USD
+2175,user356@mail.com,germany,2026-09-27,53.96,USD
+2176,user276@mail.com,usa,2026-04-28,54.69,USD
+2177,user51@mail.com,Germany,2026-03-01,90.39,USD
+2178,user102@mail.com,usa,2026-02-07,25.09,USD
+2179,user132@mail.com,Egypt,31/02/2026,58.46,USD
+2180,user274@mail.com,Germany,2026-03-20,-34.96,USD
+2181,user215@mail.com,Egypt,2026-08-17,26.45,USD
+2182,user375@mail.com,UK,2026-09-30,153.35,USD
+2183,user196@mail.com,UK,2026-09-11,163.92,USD
+2184,user273@mail.com,UK,2026-01-01,68.34,USD
+2185,user233@mail.com,egypt ,2026-01-29,60.88,USD
+2186,user341@mail.com,EGYPT,31/02/2026,82.21,USD
+2187,user56@mail.com,egypt ,2026-03-25,-25.9,USD
+2188,user178@mail.com,germany,2026-08-09,36.4,USD
+2189,user356@mail.com,Germany,2026-08-12,41.17,USD
+2190,user190@mail.com,germany,2026-04-28,136.77,USD
+2191,user164@mail.com,USA,2026-05-26,37.25,USD
+2192,user300@mail.com,usa,2026-01-23,41.33,USD
+2193,user320@mail.com,egypt ,2026-05-09,35.53,USD
+2194,user125@mail.com,egypt ,2026-06-15,119.06,USD
+2195,user169@mail.com,egypt ,2026-07-11,74.25,USD
+2196,user63@mail.com,UK,2026-02-18,72.32,USD
+2197,user87@mail.com,Germany,2026-10-12,18.67,USD
+2198,user220@mail.com,Germany,2026-06-18,51.74,USD
+2199,user121@mail.com,Germany,2026-06-29,55.49,USD
+2200,user338@mail.com,egypt ,2026-04-30,103.67,USD
+2201,user221@mail.com,USA,2026-04-03,48.43,USD
+2202,user368@mail.com,Germany,2026-02-15,165.46,USD
+2203,user56@mail.com,usa,2026-04-15,85.55,USD
+2204,user275@mail.com,germany,2026-04-17,25.56,USD
+2205,user72@mail.com,Germany,2026-01-27,79.64,USD
+2206,user187@mail.com,egypt ,2026-01-01,57.29,USD
+2207,user173@mail.com,Egypt,2026-10-03,62.84,USD
+2208,user217@mail.com,usa,2026-07-06,154.89,USD
+2209,user399@mail.com,EGYPT,2026-03-06,85.25,USD
+2210,user363@mail.com,Egypt,2026-04-23,57.06,USD
+2210,user363@mail.com,Egypt,2026-04-23,57.06,USD
+2211,user301@mail.com,germany,2026-08-06,76.09,USD
+2212,,UK,2026-06-26,109.98,USD
+2213,user134@mail.com,Egypt,2026-08-20,40.49,USD
+2214,user380@mail.com,EGYPT,2026-07-16,65.11,USD
+2215,user47@mail.com,germany,2026-09-03,95.65,USD
+2216,user280@mail.com,Germany,2026-04-11,54.33,USD
+2217,user296@mail.com,USA,2026-10-28,23.54,USD
+2218,user167@mail.com,usa,2026-09-17,137.68,USD
+2219,user206@mail.com,EGYPT,2026-07-31,45.18,USD
+2220,user118@mail.com,UK,31/02/2026,34.13,USD
+2221,user373@mail.com,UK,31/02/2026,72.22,USD
+2222,user282@mail.com,Egypt,2026-03-11,-34.4,USD
+2223,user143@mail.com,germany,2026-03-14,54.43,USD
+2224,user25@mail.com,EGYPT,2026-09-24,44.74,USD
+2225,user359@mail.com,UK,2026-07-05,266.84,USD
+2226,user309@mail.com,egypt ,2026-06-28,62.63,USD
+2227,not-an-email,UK,2026-05-16,31.67,USD
+2228,user33@mail.com,EGYPT,2026-02-11,-77.72,USD
+2229,user328@mail.com,EGYPT,2026-02-07,,USD
+2230,,EGYPT,2026-02-04,54.11,USD
+2231,user259@mail.com,germany,2026-01-28,131.76,USD
+2232,user239@mail.com,Germany,2026-06-23,76.55,USD
+2233,user63@mail.com,egypt ,2026-01-22,63.36,USD
+2234,user238@mail.com,germany,2026-04-21,-35.84,USD
+2235,user330@mail.com,USA,2026-10-15,18.31,USD
+2236,user343@mail.com,usa,2026-03-03,73.35,USD
+2237,user274@mail.com,USA,2026-03-05,56.39,USD
+2238,user21@mail.com,EGYPT,2026-01-03,80.48,USD
+2239,user247@mail.com,EGYPT,2026-09-11,128.99,USD
+2240,user109@mail.com,Egypt,2026-01-12,48.08,USD
+2241,user397@mail.com,germany,2026-06-27,26.76,USD
+2242,user400@mail.com,Germany,2026-03-27,47.43,USD
+2243,user41@mail.com,UK,2026-06-05,30.85,USD
+2244,user50@mail.com,EGYPT,2026-09-27,217.91,USD
+2245,,USA,2026-01-04,412.11,USD
+2246,user72@mail.com,EGYPT,2026-09-04,38.35,USD
+2247,user124@mail.com,UK,2026-05-01,129.46,USD
+2248,,Germany,2026-03-14,17.88,USD
+2249,user166@mail.com,Egypt,2026-04-12,69.22,USD
+2249,user166@mail.com,Egypt,2026-04-12,69.22,USD
+2250,user275@mail.com,Egypt,2026-08-05,26.18,USD
+2251,user123@mail.com,egypt ,2026-01-22,24.73,USD
+2252,user332@mail.com,Germany,2026-07-10,95.19,USD
+2253,user248@mail.com,Egypt,2026-03-08,68.36,USD
+2254,user100@mail.com,egypt ,2026-07-04,25.92,USD
+2255,user258@mail.com,egypt ,2026-10-01,17.52,USD
+2256,user207@mail.com,USA,2026-07-05,9.84,USD
+2257,,egypt ,2026-05-08,70.81,USD
+2258,user131@mail.com,Germany,2026-01-16,84.01,USD
+2259,user190@mail.com,Germany,2026-10-16,31.9,USD
+2260,user171@mail.com,EGYPT,2026-05-07,99.43,USD
+2261,user62@mail.com,usa,2026-01-27,197.09,USD
+2262,user206@mail.com,usa,2026-08-09,63.88,USD
+2263,user276@mail.com,germany,2026-08-14,32.86,USD
+2264,user114@mail.com,Germany,2026-04-04,100.37,USD
+2265,user106@mail.com,Germany,2026-10-10,88.16,USD
+2266,user54@mail.com,usa,2026-10-25,142.73,USD
+2267,user58@mail.com,Egypt,2026-05-17,28.32,USD
+2268,,EGYPT,2026-01-06,69.04,USD
+2269,user366@mail.com,Egypt,2026-07-01,13.86,USD
+2270,user396@mail.com,egypt ,2026-03-24,75.94,USD
+2271,user373@mail.com,EGYPT,2026-08-05,43.28,USD
+2272,user120@mail.com,Germany,2026-01-09,40.28,USD
+2273,user371@mail.com,usa,2026-03-31,34.27,USD
+2274,user229@mail.com,Egypt,2026-01-22,60.51,USD
+2275,not-an-email,germany,2026-04-24,44.99,USD
+2276,user189@mail.com,usa,2026-01-04,14.06,USD
+2277,user217@mail.com,egypt ,2026-04-03,58.57,USD
+2278,user259@mail.com,UK,2026-07-29,45.97,USD
+2279,user288@mail.com,usa,2026-05-14,20.4,USD
+2280,user152@mail.com,germany,2026-05-06,16.35,USD
+2281,user277@mail.com,germany,2026-09-18,18.88,USD
+2282,user114@mail.com,Egypt,2026-06-21,38.05,USD
+2283,,EGYPT,2026-08-22,57.68,USD
+2284,user372@mail.com,EGYPT,2026-05-29,18.55,USD
+2285,user287@mail.com,usa,2026-03-30,,USD
+2286,user83@mail.com,EGYPT,2026-07-14,356.1,USD
+2287,user91@mail.com,egypt ,2026-02-19,52.29,USD
+2288,user116@mail.com,USA,2026-02-02,38.49,USD
+2289,user1@mail.com,USA,2026-09-19,16.4,USD
+2290,user181@mail.com,usa,2026-05-20,77.76,USD
+2291,user292@mail.com,EGYPT,2026-05-14,54.91,USD
+2292,,EGYPT,2026-08-03,88.08,USD
+2293,user86@mail.com,egypt ,2026-05-28,46.25,USD
+2294,user269@mail.com,UK,2026-01-15,50.98,USD
+2295,user195@mail.com,USA,2026-08-11,55.28,USD
+2296,user394@mail.com,usa,2026-02-18,54.24,USD
+2297,user20@mail.com,Germany,2026-06-05,47.64,USD
+2297,user20@mail.com,Germany,2026-06-05,47.64,USD
+2298,user258@mail.com,UK,2026-05-20,27.45,USD
+2299,user300@mail.com,USA,2026-05-29,25.9,USD
+2300,user226@mail.com,Egypt,2026-09-07,53.99,USD
+2301,user141@mail.com,EGYPT,2026-09-16,22.61,USD
+2301,user141@mail.com,EGYPT,2026-09-16,22.61,USD
+2302,user72@mail.com,Germany,2026-06-12,105.83,USD
+2303,user247@mail.com,EGYPT,2026-03-17,23.11,USD
+2304,user366@mail.com,UK,2026-09-13,8.91,USD
+2305,user19@mail.com,Egypt,2026-03-04,-23.01,USD
+2305,user19@mail.com,Egypt,2026-03-04,-23.01,USD
+2306,user10@mail.com,Egypt,2026-06-02,40.14,USD
+2307,user192@mail.com,usa,2026-03-04,43.31,USD
+2308,user160@mail.com,egypt ,2026-08-09,55.22,USD
+2308,user160@mail.com,egypt ,2026-08-09,55.22,USD
+2309,user310@mail.com,germany,2026-04-01,189.12,USD
+2310,user375@mail.com,USA,2026-04-04,20.14,USD
+2311,user14@mail.com,egypt ,2026-03-20,210.12,USD
+2312,user283@mail.com,EGYPT,31/02/2026,21.32,USD
+2313,user224@mail.com,Germany,2026-09-09,53.45,USD
+2314,not-an-email,USA,2026-06-19,40.87,USD
+2315,user318@mail.com,germany,2026-03-29,80.78,USD
+2316,user302@mail.com,USA,2026-07-14,95.03,USD
+2317,user73@mail.com,USA,2026-09-11,56.21,USD
+2318,user86@mail.com,EGYPT,2026-02-16,54.19,USD
+2319,user249@mail.com,Germany,2026-01-10,7.63,USD
+2320,user383@mail.com,EGYPT,2026-08-28,42.41,USD
+2321,user323@mail.com,Egypt,2026-05-19,13.45,USD
+2322,user156@mail.com,UK,2026-04-25,27.6,USD
+2323,user266@mail.com,germany,2026-09-03,74.34,USD
+2324,user136@mail.com,EGYPT,2026-07-08,51.16,USD
+2325,user380@mail.com,Germany,2026-10-14,26.26,USD
+2326,user209@mail.com,UK,2026-02-06,22.63,USD
+2327,user36@mail.com,Egypt,2026-01-30,36.36,USD
+2328,user374@mail.com,EGYPT,2026-10-09,30.51,USD
+2329,,egypt ,2026-09-11,42.13,USD
+2330,user302@mail.com,USA,2026-07-10,22.36,USD
+2331,user197@mail.com,UK,2026-07-17,22.57,USD
+2332,user332@mail.com,usa,2026-03-15,135.71,USD
+2333,user367@mail.com,egypt ,2026-06-08,20.89,USD
+2334,user313@mail.com,egypt ,2026-04-16,44.09,USD
+2335,user347@mail.com,EGYPT,2026-03-29,86.02,USD
+2336,user41@mail.com,UK,2026-10-20,86.06,USD
+2337,user301@mail.com,germany,2026-09-29,73.82,USD
+2338,user333@mail.com,UK,2026-05-25,59.52,USD
+2339,user6@mail.com,USA,2026-05-26,79.89,USD
+2340,user140@mail.com,usa,2026-08-15,19.14,USD
+2341,user127@mail.com,egypt ,2026-03-02,43.46,USD
+2342,user2@mail.com,USA,2026-06-27,79.0,USD
+2343,user236@mail.com,Germany,2026-10-14,91.67,USD
+2344,user154@mail.com,usa,2026-08-24,72.94,USD
+2344,user154@mail.com,usa,2026-08-24,72.94,USD
+2345,user80@mail.com,EGYPT,2026-08-07,62.24,USD
+2346,user5@mail.com,UK,2026-02-20,55.79,USD
+2347,user242@mail.com,Germany,2026-01-23,69.96,USD
+2348,user200@mail.com,Germany,2026-05-01,59.27,USD
+2349,user5@mail.com,egypt ,2026-03-12,24.2,USD
+2350,user292@mail.com,egypt ,2026-03-03,220.62,USD
+2351,user333@mail.com,egypt ,2026-08-02,120.89,USD
+2352,user247@mail.com,usa,2026-02-08,91.87,USD
+2353,user388@mail.com,usa,31/02/2026,31.12,USD
+2354,user304@mail.com,Germany,2026-02-03,59.51,USD
+2355,user140@mail.com,Germany,2026-07-05,138.47,USD
+2356,user62@mail.com,UK,2026-05-25,81.73,USD
+2357,,Egypt,2026-04-05,28.42,USD
+2358,user60@mail.com,UK,2026-09-01,17.23,USD
+2359,user260@mail.com,USA,2026-04-17,35.71,USD
+2360,user205@mail.com,Egypt,31/02/2026,26.37,USD
+2361,user21@mail.com,USA,2026-10-11,146.65,USD
+2362,user277@mail.com,UK,2026-09-30,147.76,USD
+2363,user156@mail.com,usa,2026-06-11,42.15,USD
+2364,user274@mail.com,USA,2026-06-26,50.12,USD
+2365,user224@mail.com,USA,2026-05-25,63.89,USD
+2366,user20@mail.com,germany,2026-03-31,80.49,USD
+2367,user108@mail.com,usa,2026-01-05,19.8,USD
+2368,user309@mail.com,usa,2026-07-17,46.55,USD
+2369,user291@mail.com,EGYPT,2026-05-25,129.8,USD
+2370,user216@mail.com,EGYPT,2026-08-08,35.75,USD
+2370,user216@mail.com,EGYPT,2026-08-08,35.75,USD
+2371,user388@mail.com,UK,2026-04-23,41.9,USD
+2372,user112@mail.com,USA,2026-07-10,64.11,USD
+2373,user377@mail.com,USA,2026-07-01,29.81,USD
+2374,user211@mail.com,USA,2026-10-04,34.58,USD
+2375,user213@mail.com,EGYPT,2026-04-07,83.11,USD
+2376,user170@mail.com,UK,2026-04-15,99.19,USD
+2377,user205@mail.com,Germany,2026-04-05,112.7,USD
+2378,user61@mail.com,egypt ,2026-05-06,50.65,USD
+2379,,UK,2026-01-18,104.55,USD
+2380,user178@mail.com,egypt ,2026-04-04,42.34,USD
+2381,user347@mail.com,usa,2026-08-31,,USD
+2382,user13@mail.com,germany,2026-09-17,52.1,USD
+2383,user256@mail.com,Egypt,2026-05-14,,USD
+2384,user69@mail.com,Germany,2026-02-12,50.77,USD
+2385,user291@mail.com,UK,2026-05-05,30.27,USD
+2386,user198@mail.com,USA,2026-04-04,38.3,USD
+2387,user69@mail.com,UK,2026-08-17,26.05,USD
+2388,user397@mail.com,Egypt,2026-01-25,-58.73,USD
+2389,user385@mail.com,Germany,2026-01-03,52.01,USD
+2390,user368@mail.com,UK,2026-09-17,21.85,USD
+2391,user165@mail.com,UK,2026-03-22,52.98,USD
+2392,user124@mail.com,usa,2026-04-30,93.69,USD
+2393,user94@mail.com,EGYPT,2026-08-22,20.65,USD
+2393,user94@mail.com,EGYPT,2026-08-22,20.65,USD
+2394,user96@mail.com,Egypt,2026-02-20,47.97,USD
+2395,user87@mail.com,Germany,2026-02-02,24.65,USD
+2396,user130@mail.com,UK,2026-02-11,86.0,USD
+2397,,UK,2026-03-09,51.57,USD
+2398,user250@mail.com,Egypt,2026-10-23,22.33,USD
+2399,user319@mail.com,Germany,2026-05-31,47.89,USD
+2400,user107@mail.com,USA,2026-06-01,39.92,USD
+2401,,UK,2026-07-06,278.98,USD
+2402,user44@mail.com,UK,2026-10-24,76.67,USD
+2402,user44@mail.com,UK,2026-10-24,76.67,USD
+2403,not-an-email,UK,2026-04-12,24.5,USD
+2404,user155@mail.com,Germany,2026-04-12,40.06,USD
+2405,user2@mail.com,egypt ,2026-03-24,37.32,USD
+2406,user293@mail.com,Egypt,2026-01-03,,USD
+2407,user208@mail.com,Egypt,2026-10-07,35.61,USD
+2408,user203@mail.com,Egypt,2026-01-31,19.2,USD
+2409,user83@mail.com,usa,2026-08-10,82.97,USD
+2410,user202@mail.com,EGYPT,2026-03-29,17.85,USD
+2411,user251@mail.com,Germany,2026-10-13,29.87,USD
+2412,user199@mail.com,Germany,2026-05-12,37.72,USD
+2413,user291@mail.com,USA,2026-08-28,123.1,USD
+2414,user229@mail.com,USA,2026-10-06,77.57,USD
+2415,user277@mail.com,germany,2026-04-13,62.87,USD
+2416,user42@mail.com,UK,2026-07-29,56.52,USD
+2417,user168@mail.com,egypt ,2026-04-29,71.41,USD
+2418,user19@mail.com,UK,2026-06-18,37.15,USD
+2419,user235@mail.com,Egypt,2026-10-02,36.52,USD
+2420,user301@mail.com,EGYPT,2026-03-21,47.43,USD
+2421,user227@mail.com,Germany,2026-01-26,94.59,USD
+2422,user31@mail.com,USA,2026-05-16,153.76,USD
+2423,user237@mail.com,germany,2026-10-11,41.06,USD
+2424,user261@mail.com,Germany,2026-01-08,20.85,USD
+2425,user214@mail.com,germany,2026-01-04,73.67,USD
+2426,user135@mail.com,USA,2026-08-19,37.2,USD
+2427,not-an-email,EGYPT,2026-10-10,15.99,USD
+2428,user319@mail.com,Germany,2026-04-02,38.58,USD
+2429,user387@mail.com,EGYPT,2026-07-17,222.24,USD
+2430,user20@mail.com,Germany,2026-02-04,27.73,USD
+2431,,egypt ,2026-04-22,27.2,USD
+2432,user14@mail.com,EGYPT,2026-05-22,67.13,USD
+2433,user34@mail.com,Germany,2026-06-20,84.77,USD
+2434,user69@mail.com,USA,2026-05-06,110.39,USD
+2435,user248@mail.com,usa,2026-09-15,122.33,USD
+2436,user268@mail.com,USA,2026-01-12,,USD
+2437,user327@mail.com,EGYPT,2026-02-17,50.37,USD
+2438,user139@mail.com,usa,2026-09-08,20.89,USD
+2439,user128@mail.com,germany,2026-09-18,-60.37,USD
+2440,user245@mail.com,Egypt,2026-08-01,21.99,USD
+2441,user288@mail.com,germany,31/02/2026,37.19,USD
+2442,user214@mail.com,EGYPT,2026-06-28,35.24,USD
+2443,user332@mail.com,usa,2026-08-06,36.86,USD
+2444,user151@mail.com,Egypt,2026-09-20,39.29,USD
+2445,user357@mail.com,usa,2026-07-16,101.09,USD
+2445,user357@mail.com,usa,2026-07-16,101.09,USD
+2446,user103@mail.com,USA,2026-10-15,40.13,USD
+2447,user54@mail.com,UK,2026-04-04,86.09,USD
+2448,user140@mail.com,germany,2026-01-17,34.08,USD
+2449,user162@mail.com,UK,2026-08-15,47.57,USD
+2450,user265@mail.com,EGYPT,2026-08-18,,USD
+2451,user182@mail.com,Egypt,2026-08-23,179.46,USD
+2452,user84@mail.com,EGYPT,2026-03-17,7.93,USD
+2453,user269@mail.com,UK,2026-08-06,118.82,USD
+2454,user118@mail.com,USA,2026-02-03,49.04,USD
+2455,user245@mail.com,egypt ,2026-03-18,19.95,USD
+2456,user30@mail.com,USA,2026-03-22,253.3,USD
+2457,user113@mail.com,EGYPT,2026-02-08,73.58,USD
+2458,user172@mail.com,EGYPT,2026-04-28,51.0,USD
+2459,user106@mail.com,UK,2026-10-28,76.7,USD
+2460,user350@mail.com,Germany,2026-10-25,84.81,USD
+2461,user58@mail.com,USA,2026-03-11,128.85,USD
+2462,user238@mail.com,Egypt,2026-04-17,18.21,USD
+2463,user250@mail.com,germany,2026-05-29,235.54,USD
+2464,not-an-email,USA,2026-09-10,62.84,USD
+2465,user290@mail.com,usa,2026-08-31,146.69,USD
+2466,user110@mail.com,USA,2026-08-16,53.92,USD
+2467,user336@mail.com,germany,2026-08-28,173.66,USD
+2468,user268@mail.com,egypt ,2026-01-30,36.57,USD
+2469,user114@mail.com,EGYPT,2026-10-09,17.77,USD
+2470,user161@mail.com,EGYPT,2026-07-20,121.96,USD
+2471,user304@mail.com,UK,2026-02-02,-31.13,USD
+2472,user240@mail.com,egypt ,2026-04-18,80.11,USD
+2473,user306@mail.com,EGYPT,31/02/2026,40.67,USD
+2474,user337@mail.com,USA,2026-05-23,72.82,USD
+2475,user326@mail.com,USA,2026-09-20,57.82,USD
+2476,user345@mail.com,UK,2026-07-25,40.57,USD
+2477,user310@mail.com,germany,2026-08-14,52.5,USD
+2478,user320@mail.com,UK,2026-09-02,131.3,USD
+2479,user146@mail.com,USA,2026-02-27,86.48,USD
+2480,,USA,2026-07-01,18.31,USD
+2481,user117@mail.com,USA,2026-09-09,69.5,USD
+2482,user131@mail.com,usa,2026-08-28,103.45,USD
+2483,user43@mail.com,EGYPT,2026-05-05,14.62,USD
+2484,user83@mail.com,Germany,2026-05-26,29.68,USD
+2485,user223@mail.com,USA,2026-10-03,120.71,USD
+2486,user328@mail.com,germany,2026-03-05,20.84,USD
+2487,user239@mail.com,germany,2026-01-16,110.04,USD
+2488,user351@mail.com,EGYPT,2026-04-13,26.9,USD
+2489,user136@mail.com,germany,2026-09-22,52.06,USD
+2490,user7@mail.com,Egypt,2026-04-03,65.4,USD
+2491,user79@mail.com,EGYPT,2026-01-03,50.26,USD
+2492,user28@mail.com,usa,2026-01-31,67.94,USD
+2493,user366@mail.com,germany,2026-04-27,53.82,USD
+2494,user308@mail.com,Germany,2026-06-22,61.95,USD
+2495,user193@mail.com,USA,2026-08-06,56.52,USD
+2496,user215@mail.com,egypt ,2026-10-22,92.86,USD
+2497,user91@mail.com,germany,2026-02-26,-72.4,USD
+2498,user351@mail.com,Egypt,2026-09-01,17.61,USD
+2499,user130@mail.com,usa,2026-04-10,43.87,USD
+2500,user120@mail.com,germany,31/02/2026,14.91,USD
+2501,user390@mail.com,egypt ,2026-07-20,112.13,USD
+2502,user217@mail.com,germany,2026-03-31,28.93,USD
+2503,user141@mail.com,UK,2026-04-07,58.87,USD
+2504,user16@mail.com,USA,2026-05-17,20.45,USD
+2505,user38@mail.com,Germany,2026-03-12,194.34,USD
+2506,user245@mail.com,EGYPT,2026-06-29,123.56,USD
+2507,user391@mail.com,egypt ,2026-10-07,70.01,USD
+2508,user352@mail.com,USA,2026-07-31,24.69,USD
+2509,user18@mail.com,Germany,2026-10-06,42.43,USD
+2510,user260@mail.com,USA,2026-03-05,26.72,USD
+2511,user41@mail.com,germany,2026-02-16,60.68,USD
+2512,user394@mail.com,Germany,2026-05-16,27.7,USD
+2513,,egypt ,2026-09-29,102.14,USD
+2514,user388@mail.com,Germany,2026-02-15,126.2,USD
+2515,user376@mail.com,UK,2026-03-25,41.79,USD
+2516,user129@mail.com,usa,2026-09-29,48.82,USD
+2517,user267@mail.com,egypt ,2026-08-24,135.73,USD
+2518,user298@mail.com,egypt ,2026-08-25,47.38,USD
+2519,user264@mail.com,EGYPT,2026-06-02,78.83,USD
+2520,user289@mail.com,UK,2026-03-15,137.69,USD
+2521,user266@mail.com,Germany,2026-09-22,257.79,USD
+2522,user44@mail.com,UK,2026-03-23,43.57,USD
+2523,user192@mail.com,germany,2026-04-26,43.99,USD
+2524,user190@mail.com,USA,2026-01-09,44.08,USD
+2525,user106@mail.com,Egypt,2026-01-13,24.16,USD
+2526,user363@mail.com,USA,2026-06-06,60.91,USD
+2527,user377@mail.com,usa,2026-08-13,31.73,USD
+2528,user400@mail.com,Egypt,2026-10-10,177.4,USD
+2529,user197@mail.com,USA,2026-06-13,69.41,USD
+2530,user93@mail.com,Germany,2026-03-30,48.52,USD
+2531,user189@mail.com,UK,2026-05-30,125.03,USD
+2532,user382@mail.com,EGYPT,2026-05-14,41.57,USD
+2533,user270@mail.com,Germany,31/02/2026,43.33,USD
+2534,user385@mail.com,Egypt,2026-06-26,69.94,USD
+2535,user208@mail.com,egypt ,2026-09-21,47.95,USD
+2536,user180@mail.com,egypt ,2026-02-20,77.88,USD
+2537,user167@mail.com,egypt ,2026-01-13,116.36,USD
+2538,user38@mail.com,EGYPT,2026-02-12,25.14,USD
+2539,user95@mail.com,UK,2026-06-12,42.24,USD
+2539,user95@mail.com,UK,2026-06-12,42.24,USD
+2540,user17@mail.com,germany,2026-02-26,,USD
+2541,user132@mail.com,germany,31/02/2026,36.1,USD
+2542,user188@mail.com,usa,2026-02-10,73.92,USD
+2543,user344@mail.com,UK,2026-06-23,59.63,USD
+2544,,EGYPT,2026-06-13,23.1,USD
+2545,user152@mail.com,USA,2026-08-13,81.68,USD
+2546,user44@mail.com,Egypt,2026-10-07,27.04,USD
+2547,user140@mail.com,germany,2026-05-30,26.76,USD
+2548,user180@mail.com,EGYPT,2026-03-31,,USD
+2549,user63@mail.com,usa,2026-06-07,20.01,USD
+2550,user325@mail.com,USA,2026-06-26,190.47,USD
+2551,user71@mail.com,usa,2026-05-06,13.05,USD
+2552,user278@mail.com,Egypt,2026-08-16,46.2,USD
+2553,user111@mail.com,Germany,2026-10-08,23.46,USD
+2554,user135@mail.com,Egypt,2026-02-06,10.83,USD
+2555,user133@mail.com,usa,2026-01-22,178.28,USD
+2556,user167@mail.com,UK,2026-09-18,47.88,USD
+2557,user42@mail.com,usa,2026-05-10,59.58,USD
+2558,user163@mail.com,Germany,2026-09-22,49.42,USD
+2559,,egypt ,2026-04-07,60.8,USD
+2560,user257@mail.com,USA,2026-09-10,38.63,USD
+2561,user362@mail.com,usa,2026-03-31,31.24,USD
+2562,user112@mail.com,germany,2026-04-02,23.76,USD
+2563,user241@mail.com,UK,31/02/2026,30.75,USD
+2564,user100@mail.com,EGYPT,2026-08-22,10.08,USD
+2565,user33@mail.com,EGYPT,2026-01-10,109.38,USD
+2566,user175@mail.com,usa,2026-05-17,75.88,USD
+2567,user237@mail.com,usa,2026-04-02,81.78,USD
+2568,user238@mail.com,USA,2026-04-14,83.54,USD
+2569,user159@mail.com,Egypt,2026-06-12,63.99,USD
+2570,user302@mail.com,usa,2026-05-22,19.2,USD
+2571,user26@mail.com,USA,2026-10-01,107.77,USD
+2572,user166@mail.com,EGYPT,2026-10-28,27.53,USD
+2573,user122@mail.com,UK,31/02/2026,43.96,USD
+2574,user380@mail.com,EGYPT,2026-05-19,21.98,USD
+2575,user330@mail.com,EGYPT,2026-03-23,16.21,USD
+2576,user256@mail.com,germany,2026-04-10,-53.92,USD
+2577,user294@mail.com,USA,2026-04-06,52.78,USD
+2578,user233@mail.com,germany,2026-08-30,94.12,USD
+2579,user271@mail.com,egypt ,2026-04-27,84.62,USD
+2580,user89@mail.com,egypt ,2026-10-23,38.54,USD
+2581,user209@mail.com,Egypt,31/02/2026,31.98,USD
+2582,user342@mail.com,Germany,2026-02-08,33.28,USD
+2583,user138@mail.com,Germany,2026-01-02,118.56,USD
+2584,user199@mail.com,EGYPT,2026-05-27,82.55,USD
+2585,user168@mail.com,EGYPT,2026-09-25,71.72,USD
+2586,user355@mail.com,egypt ,31/02/2026,86.61,USD
+2587,user33@mail.com,EGYPT,2026-08-12,52.91,USD
+2588,user134@mail.com,Germany,2026-01-06,5.67,USD
+2589,user377@mail.com,USA,31/02/2026,175.71,USD
+2590,user85@mail.com,USA,2026-07-28,21.49,USD
+2591,user292@mail.com,egypt ,31/02/2026,39.08,USD
+2592,user397@mail.com,usa,2026-03-05,142.25,USD
+2592,user397@mail.com,usa,2026-03-05,142.25,USD
+2593,user110@mail.com,Germany,2026-04-19,64.39,USD
+2594,user96@mail.com,egypt ,2026-05-23,32.24,USD
+2595,user168@mail.com,germany,2026-06-05,31.48,USD
+2596,user201@mail.com,Egypt,2026-04-11,110.75,USD
+2597,user75@mail.com,egypt ,2026-03-02,-173.55,USD
+2598,user80@mail.com,Egypt,2026-01-09,21.92,USD
+2599,user104@mail.com,Germany,2026-02-23,32.17,USD
+2600,user8@mail.com,usa,2026-03-10,72.77,USD
+2601,user29@mail.com,usa,2026-10-21,73.36,USD
+2602,user294@mail.com,egypt ,2026-05-10,92.93,USD
+2603,user33@mail.com,UK,2026-08-07,24.23,USD
+2604,user137@mail.com,usa,2026-02-11,276.64,USD
+2605,user96@mail.com,egypt ,2026-02-10,33.38,USD
+2606,user375@mail.com,USA,2026-10-27,73.34,USD
+2607,user190@mail.com,usa,2026-04-23,26.68,USD
+2608,user164@mail.com,UK,2026-09-21,23.9,USD
+2609,user200@mail.com,UK,2026-07-04,59.46,USD
+2610,user341@mail.com,EGYPT,2026-05-15,59.95,USD
+2611,user355@mail.com,Germany,2026-07-07,42.73,USD
+2612,user233@mail.com,germany,2026-08-13,67.71,USD
+2613,user242@mail.com,egypt ,2026-09-25,60.83,USD
+2614,user290@mail.com,germany,2026-05-31,37.65,USD
+2615,user257@mail.com,USA,2026-04-09,68.75,USD
+2616,user211@mail.com,UK,2026-09-19,61.0,USD
+2617,user154@mail.com,USA,2026-10-24,55.06,USD
+2618,user47@mail.com,Egypt,2026-04-30,60.44,USD
+2619,user209@mail.com,egypt ,2026-08-12,75.87,USD
+2620,user279@mail.com,usa,2026-06-28,29.97,USD
+2621,user276@mail.com,UK,2026-09-14,124.49,USD
+2622,user59@mail.com,EGYPT,2026-02-10,51.84,USD
+2623,user5@mail.com,Egypt,2026-10-14,112.0,USD
+2624,user83@mail.com,Germany,2026-10-13,24.61,USD
+2625,user323@mail.com,UK,2026-01-29,49.06,USD
+2626,user109@mail.com,Germany,2026-05-27,82.1,USD
+2627,user116@mail.com,UK,2026-04-04,162.18,USD
+2628,user361@mail.com,EGYPT,2026-08-18,140.82,USD
+2629,user15@mail.com,USA,2026-03-28,59.11,USD
+2630,user56@mail.com,germany,2026-09-27,120.9,USD
+2631,user124@mail.com,Egypt,2026-07-10,53.98,USD
+2632,user78@mail.com,usa,2026-09-13,74.44,USD
+2633,user307@mail.com,UK,2026-10-10,92.81,USD
+2634,user371@mail.com,Germany,2026-02-14,14.83,USD
+2635,user167@mail.com,EGYPT,2026-06-02,,USD
+2636,user388@mail.com,EGYPT,2026-01-20,42.96,USD
+2637,user262@mail.com,UK,2026-05-18,19.41,USD
+2637,user262@mail.com,UK,2026-05-18,19.41,USD
+2638,user112@mail.com,UK,2026-01-20,21.1,USD
+2639,user322@mail.com,germany,2026-10-04,115.19,USD
+2640,user130@mail.com,usa,2026-10-19,54.46,USD
+2641,user79@mail.com,EGYPT,2026-02-28,44.05,USD
+2642,user48@mail.com,USA,2026-07-16,79.5,USD
+2643,user164@mail.com,USA,31/02/2026,118.95,USD
+2644,user254@mail.com,usa,2026-06-23,112.3,USD
+2645,user320@mail.com,Germany,2026-07-31,27.17,USD
+2646,user308@mail.com,USA,2026-05-18,33.79,USD
+2647,user367@mail.com,germany,2026-10-12,77.56,USD
+2648,user162@mail.com,germany,2026-10-09,17.06,USD
+2649,user296@mail.com,Egypt,2026-03-20,22.78,USD
+2650,user388@mail.com,UK,2026-07-14,9.75,USD
+2651,user81@mail.com,germany,2026-02-05,34.3,USD
+2652,user246@mail.com,EGYPT,2026-09-07,9.47,USD
+2653,user14@mail.com,Egypt,2026-08-23,30.98,USD
+2654,user139@mail.com,egypt ,2026-05-01,33.62,USD
+2655,user282@mail.com,EGYPT,2026-02-02,28.86,USD
+2656,user391@mail.com,USA,2026-08-16,38.72,USD
+2657,user267@mail.com,USA,2026-05-22,40.72,USD
+2658,user154@mail.com,USA,2026-03-13,59.13,USD
+2659,user269@mail.com,Egypt,2026-07-13,47.16,USD
+2660,user390@mail.com,egypt ,2026-10-24,106.32,USD
+2661,user120@mail.com,Egypt,2026-10-11,38.15,USD
+2662,user262@mail.com,usa,2026-10-17,37.7,USD
+2663,user43@mail.com,usa,2026-04-12,23.32,USD
+2664,user298@mail.com,germany,2026-07-29,70.84,USD
+2665,user72@mail.com,Germany,2026-08-29,73.4,USD
+2666,user380@mail.com,Egypt,2026-07-06,31.37,USD
+2667,user201@mail.com,germany,2026-06-28,55.81,USD
+2668,user327@mail.com,germany,2026-04-17,39.14,USD
+2669,user346@mail.com,EGYPT,2026-02-13,74.09,USD
+2670,user218@mail.com,UK,2026-06-14,77.98,USD
+2671,,egypt ,2026-07-12,29.23,USD
+2672,user344@mail.com,germany,2026-10-05,208.91,USD
+2673,user80@mail.com,Egypt,2026-02-12,24.91,USD
+2674,user207@mail.com,Germany,2026-01-12,191.56,USD
+2675,user237@mail.com,egypt ,2026-09-29,19.39,USD
+2676,user15@mail.com,germany,2026-07-25,13.97,USD
+2677,user148@mail.com,Germany,2026-08-11,167.97,USD
+2678,user281@mail.com,EGYPT,2026-10-03,-99.66,USD
+2679,user231@mail.com,USA,2026-06-26,50.52,USD
+2680,user29@mail.com,Egypt,2026-06-16,74.09,USD
+2681,user135@mail.com,egypt ,2026-08-21,77.77,USD
+2682,user88@mail.com,usa,2026-04-28,35.26,USD
+2683,user364@mail.com,usa,2026-06-22,71.63,USD
+2684,user275@mail.com,egypt ,2026-04-17,74.28,USD
+2685,user185@mail.com,usa,2026-02-11,60.68,USD
+2686,user6@mail.com,germany,2026-07-26,105.13,USD
+2687,user5@mail.com,germany,2026-04-04,89.36,USD
+2687,user5@mail.com,germany,2026-04-04,89.36,USD
+2688,user103@mail.com,Germany,2026-06-13,12.68,USD
+2689,user237@mail.com,Germany,2026-08-20,142.13,USD
+2690,user210@mail.com,Germany,2026-09-26,57.89,USD
+2691,user321@mail.com,egypt ,2026-08-17,92.3,USD
+2692,user221@mail.com,germany,2026-04-20,79.02,USD
+2693,user259@mail.com,germany,2026-08-17,57.97,USD
+2694,user340@mail.com,Germany,2026-05-29,16.95,USD
+2694,user340@mail.com,Germany,2026-05-29,16.95,USD
+2695,user317@mail.com,UK,2026-09-03,58.5,USD
+2696,user360@mail.com,USA,2026-03-18,53.49,USD
+2697,user320@mail.com,USA,2026-05-08,13.68,USD
+2698,user164@mail.com,Egypt,2026-07-01,37.52,USD
+2699,user147@mail.com,germany,2026-10-03,205.68,USD
+2700,user115@mail.com,USA,2026-09-05,85.16,USD
+2701,user259@mail.com,usa,2026-05-03,189.76,USD
+2702,user121@mail.com,usa,2026-04-16,102.23,USD
+2703,user200@mail.com,germany,2026-03-03,112.0,USD
+2704,user218@mail.com,egypt ,2026-03-17,103.31,USD
+2705,user162@mail.com,egypt ,2026-04-25,33.17,USD
+2706,user29@mail.com,UK,2026-06-15,146.24,USD
+2707,user152@mail.com,Germany,2026-05-19,62.8,USD
+2708,user242@mail.com,UK,2026-10-23,196.76,USD
+2709,user186@mail.com,USA,2026-03-08,210.87,USD
+2710,user150@mail.com,EGYPT,2026-10-22,52.86,USD
+2711,user381@mail.com,germany,2026-07-18,80.0,USD
+2712,user309@mail.com,UK,2026-07-10,45.42,USD
+2713,user33@mail.com,germany,2026-08-24,8.77,USD
+2714,user390@mail.com,egypt ,2026-05-23,122.49,USD
+2715,user32@mail.com,Egypt,2026-07-25,61.74,USD
+2716,user47@mail.com,usa,2026-01-27,284.99,USD
+2717,user264@mail.com,Egypt,2026-07-12,43.27,USD
+2718,user329@mail.com,UK,2026-05-22,186.25,USD
+2719,user235@mail.com,usa,2026-04-27,76.22,USD
+2720,user356@mail.com,egypt ,2026-06-04,45.82,USD
+2721,user4@mail.com,germany,2026-10-28,131.32,USD
+2722,user1@mail.com,UK,2026-09-08,12.92,USD
+2723,user23@mail.com,UK,2026-09-22,18.43,USD
+2724,user256@mail.com,Egypt,2026-01-18,170.45,USD
+2725,user249@mail.com,EGYPT,2026-02-07,-38.63,USD
+2726,user308@mail.com,Egypt,2026-01-03,86.58,USD
+2727,user310@mail.com,usa,2026-10-21,129.37,USD
+2728,user342@mail.com,egypt ,2026-04-07,41.4,USD
+2729,user364@mail.com,usa,2026-05-10,116.23,USD
+2730,user16@mail.com,EGYPT,2026-07-09,43.27,USD
+2731,user268@mail.com,EGYPT,2026-10-03,66.42,USD
+2732,user133@mail.com,UK,2026-09-06,32.48,USD
+2733,user106@mail.com,Germany,2026-10-23,97.84,USD
+2734,user244@mail.com,USA,2026-06-04,26.9,USD
+2735,user61@mail.com,USA,2026-05-21,65.41,USD
+2736,user370@mail.com,Egypt,2026-09-16,39.92,USD
+2737,user263@mail.com,Germany,2026-06-09,179.77,USD
+2738,user168@mail.com,Germany,2026-06-25,94.82,USD
+2739,user61@mail.com,usa,2026-06-16,37.94,USD
+2740,,Egypt,2026-04-03,37.78,USD
+2741,user131@mail.com,Germany,2026-08-05,85.33,USD
+2742,user388@mail.com,USA,2026-07-23,59.43,USD
+2743,user92@mail.com,germany,2026-09-08,21.11,USD
+2744,user399@mail.com,Egypt,2026-09-02,33.92,USD
+2745,,EGYPT,2026-05-16,58.83,USD
+2746,user324@mail.com,USA,2026-05-19,86.31,USD
+2747,user234@mail.com,UK,2026-01-29,61.28,USD
+2748,user90@mail.com,usa,2026-06-10,30.52,USD
+2749,user51@mail.com,UK,2026-04-20,47.41,USD
+2750,user298@mail.com,UK,2026-03-15,299.79,USD
+2751,user249@mail.com,germany,2026-10-14,19.01,USD
+2752,user133@mail.com,EGYPT,2026-03-09,37.31,USD
+2753,user295@mail.com,UK,2026-09-28,36.89,USD
+2754,user182@mail.com,Egypt,2026-01-30,22.56,USD
+2755,user219@mail.com,Germany,2026-08-24,14.44,USD
+2756,user124@mail.com,Egypt,2026-02-18,38.17,USD
+2757,user345@mail.com,EGYPT,2026-05-21,77.97,USD
+2758,,germany,2026-10-16,24.99,USD
+2759,user103@mail.com,EGYPT,2026-06-17,68.28,USD
+2760,user279@mail.com,Egypt,2026-09-02,62.14,USD
+2761,user351@mail.com,egypt ,2026-01-16,53.04,USD
+2762,user398@mail.com,UK,2026-04-25,44.18,USD
+2763,user178@mail.com,EGYPT,2026-09-09,47.13,USD
+2764,user157@mail.com,UK,2026-04-01,49.14,USD
+2765,user71@mail.com,UK,2026-02-23,32.81,USD
+2766,user262@mail.com,egypt ,2026-10-25,35.6,USD
+2767,user141@mail.com,UK,2026-03-21,38.08,USD
+2768,user73@mail.com,EGYPT,2026-07-09,108.29,USD
+2769,user237@mail.com,Egypt,2026-03-25,29.68,USD
+2770,user373@mail.com,EGYPT,2026-05-06,18.03,USD
+2771,user87@mail.com,germany,2026-02-24,77.93,USD
+2772,user243@mail.com,EGYPT,2026-05-14,18.57,USD
+2773,user26@mail.com,Egypt,2026-03-14,84.24,USD
+2774,user232@mail.com,usa,2026-03-15,116.11,USD
+2775,user42@mail.com,USA,2026-07-03,122.29,USD
+2776,user351@mail.com,germany,2026-03-11,80.91,USD
+2777,user140@mail.com,EGYPT,2026-03-11,47.02,USD
+2778,user242@mail.com,usa,2026-07-25,33.01,USD
+2779,user16@mail.com,EGYPT,2026-01-21,-22.43,USD
+2780,user249@mail.com,usa,2026-02-03,41.67,USD
+2781,user156@mail.com,usa,2026-02-28,80.56,USD
+2782,user56@mail.com,USA,2026-07-10,28.7,USD
+2783,,UK,2026-04-14,44.47,USD
+2784,user307@mail.com,EGYPT,2026-03-24,12.91,USD
+2785,user165@mail.com,germany,2026-02-02,41.52,USD
+2786,user166@mail.com,Egypt,2026-04-01,86.06,USD
+2787,user115@mail.com,Egypt,2026-04-04,61.14,USD
+2788,user258@mail.com,Egypt,2026-09-06,46.65,USD
+2789,user287@mail.com,UK,2026-01-08,45.66,USD
+2790,user68@mail.com,germany,2026-04-11,133.07,USD
+2791,user201@mail.com,USA,31/02/2026,49.49,USD
+2792,user232@mail.com,Germany,2026-10-11,53.08,USD
+2793,user124@mail.com,EGYPT,2026-06-01,54.07,USD
+2794,user356@mail.com,EGYPT,2026-03-24,36.09,USD
+2795,user375@mail.com,egypt ,2026-02-15,62.9,USD
+2796,user389@mail.com,EGYPT,2026-09-01,44.56,USD
+2797,user384@mail.com,germany,2026-01-17,30.05,USD
+2798,user89@mail.com,Egypt,2026-07-02,37.51,USD
+2799,user56@mail.com,USA,2026-08-28,13.76,USD
+2800,user399@mail.com,germany,2026-02-16,51.98,USD
+2801,user95@mail.com,Egypt,2026-09-06,92.97,USD
+2802,user181@mail.com,usa,2026-10-28,54.67,USD
+2803,user246@mail.com,Egypt,2026-05-11,122.27,USD
+2804,user134@mail.com,Egypt,2026-09-18,,USD
+2805,user126@mail.com,USA,2026-01-28,18.06,USD
+2806,user327@mail.com,Germany,2026-10-26,31.68,USD
+2807,user370@mail.com,egypt ,2026-08-21,54.56,USD
+2808,user223@mail.com,germany,2026-03-21,105.58,USD
+2809,user21@mail.com,UK,2026-01-15,14.62,USD
+2810,user136@mail.com,Germany,2026-06-28,94.11,USD
+2811,user99@mail.com,USA,2026-05-08,184.11,USD
+2812,user335@mail.com,usa,2026-10-18,56.99,USD
+2813,user280@mail.com,Egypt,31/02/2026,15.38,USD
+2814,user35@mail.com,Germany,2026-10-28,129.33,USD
+2815,user146@mail.com,Egypt,2026-05-29,246.58,USD
+2816,user112@mail.com,USA,2026-03-16,65.93,USD
+2817,user170@mail.com,egypt ,2026-03-28,35.86,USD
+2818,user253@mail.com,Egypt,2026-03-18,70.77,USD
+2819,user262@mail.com,EGYPT,2026-09-17,64.93,USD
+2820,user73@mail.com,Germany,2026-03-30,52.64,USD
+2821,user394@mail.com,USA,2026-03-30,161.85,USD
+2822,user337@mail.com,egypt ,2026-04-02,,USD
+2823,user386@mail.com,UK,2026-05-06,49.37,USD
+2824,user203@mail.com,usa,2026-05-14,56.26,USD
+2824,user203@mail.com,usa,2026-05-14,56.26,USD
+2825,user186@mail.com,EGYPT,2026-04-01,50.02,USD
+2826,user169@mail.com,usa,2026-02-08,130.51,USD
+2827,user152@mail.com,Germany,31/02/2026,170.99,USD
+2828,user18@mail.com,Germany,2026-06-21,41.06,USD
+2829,user368@mail.com,USA,2026-01-02,39.69,USD
+2830,user58@mail.com,Germany,2026-06-20,44.02,USD
+2831,user107@mail.com,UK,2026-08-14,40.73,USD
+2832,user103@mail.com,Egypt,2026-10-17,30.04,USD
+2833,user188@mail.com,germany,2026-03-01,-67.41,USD
+2834,user384@mail.com,EGYPT,2026-09-02,17.81,USD
+2835,user235@mail.com,germany,2026-08-09,98.65,USD
+2836,user256@mail.com,Egypt,2026-06-08,49.03,USD
+2837,user285@mail.com,egypt ,2026-03-26,57.84,USD
+2838,user277@mail.com,EGYPT,2026-01-11,20.68,USD
+2839,user44@mail.com,USA,2026-05-24,15.41,USD
+2840,user152@mail.com,egypt ,2026-04-12,309.79,USD
+2841,user163@mail.com,usa,2026-01-25,83.25,USD
+2842,user69@mail.com,egypt ,2026-05-10,59.52,USD
+2842,user69@mail.com,egypt ,2026-05-10,59.52,USD
+2843,user50@mail.com,EGYPT,2026-03-14,34.65,USD
+2844,user140@mail.com,USA,2026-09-19,58.11,USD
+2845,user310@mail.com,Egypt,2026-03-21,28.9,USD
+2846,user161@mail.com,UK,2026-05-17,19.04,USD
+2847,user224@mail.com,Egypt,2026-06-01,40.18,USD
+2848,user161@mail.com,Germany,2026-06-23,29.48,USD
+2849,user194@mail.com,USA,2026-03-27,32.1,USD
+2850,user243@mail.com,USA,2026-02-18,64.1,USD
+2851,user77@mail.com,Egypt,2026-10-21,35.05,USD
+2852,user311@mail.com,egypt ,2026-08-21,126.12,USD
+2853,user34@mail.com,UK,2026-08-23,49.64,USD
+2854,user19@mail.com,egypt ,2026-03-21,46.68,USD
+2855,user351@mail.com,EGYPT,2026-10-05,72.79,USD
+2856,user286@mail.com,usa,2026-02-10,66.06,USD
+2857,user65@mail.com,usa,2026-08-20,99.12,USD
+2858,user385@mail.com,EGYPT,2026-01-28,104.01,USD
+2859,user340@mail.com,USA,2026-10-23,55.92,USD
+2860,user71@mail.com,germany,2026-02-12,78.49,USD
+2861,user153@mail.com,germany,2026-03-06,55.0,USD
+2861,user153@mail.com,germany,2026-03-06,55.0,USD
+2862,user280@mail.com,germany,2026-04-25,52.94,USD
+2863,user312@mail.com,usa,2026-05-18,111.87,USD
+2864,user88@mail.com,UK,2026-05-07,143.22,USD
+2865,user339@mail.com,UK,2026-04-15,62.56,USD
+2866,user165@mail.com,usa,2026-01-03,110.76,USD
+2867,user59@mail.com,USA,2026-06-17,87.89,USD
+2868,user162@mail.com,EGYPT,2026-09-06,64.69,USD
+2869,user242@mail.com,germany,2026-03-09,167.06,USD
+2870,user51@mail.com,germany,2026-08-25,25.39,USD
+2871,user130@mail.com,egypt ,2026-07-29,108.14,USD
+2872,user202@mail.com,usa,2026-02-08,45.91,USD
+2873,user350@mail.com,UK,2026-04-14,196.42,USD
+2874,user49@mail.com,egypt ,2026-05-24,41.66,USD
+2875,user158@mail.com,Germany,2026-02-22,57.76,USD
+2876,user311@mail.com,germany,2026-05-30,50.67,USD
+2877,user35@mail.com,egypt ,2026-05-25,24.05,USD
+2878,user36@mail.com,USA,2026-05-07,55.86,USD
+2879,user21@mail.com,EGYPT,2026-10-22,30.32,USD
+2880,user282@mail.com,germany,2026-01-25,182.77,USD
+2881,user341@mail.com,germany,2026-05-17,45.37,USD
+2882,user104@mail.com,UK,2026-07-05,52.48,USD
+2883,user158@mail.com,egypt ,2026-06-10,101.73,USD
+2884,user140@mail.com,USA,2026-01-07,21.54,USD
+2885,user265@mail.com,Germany,2026-01-01,35.6,USD
+2886,user290@mail.com,usa,2026-04-25,13.17,USD
+2887,user58@mail.com,EGYPT,2026-02-27,210.54,USD
+2888,user307@mail.com,usa,2026-02-12,69.06,USD
+2889,user43@mail.com,USA,2026-02-24,-325.08,USD
+2890,user78@mail.com,Germany,2026-05-30,48.52,USD
+2891,user56@mail.com,egypt ,2026-02-15,177.21,USD
+2892,user5@mail.com,Egypt,2026-02-10,89.06,USD
+2893,user46@mail.com,USA,2026-10-28,168.59,USD
+2894,user249@mail.com,USA,2026-02-01,39.03,USD
+2895,user94@mail.com,UK,2026-08-15,85.89,USD
+2896,user290@mail.com,usa,2026-09-15,187.41,USD
+2897,user258@mail.com,UK,2026-08-26,77.21,USD
+2898,user230@mail.com,USA,2026-05-19,138.23,USD
+2899,user256@mail.com,Germany,2026-02-25,165.66,USD
+2900,user28@mail.com,Egypt,2026-06-30,56.61,USD
+2901,user238@mail.com,Egypt,2026-05-06,61.29,USD
+2902,user201@mail.com,usa,2026-02-10,52.41,USD
+2903,user85@mail.com,Germany,2026-01-24,-11.99,USD
+2904,user378@mail.com,usa,2026-05-21,12.68,USD
+2905,user265@mail.com,EGYPT,2026-02-10,50.82,USD
+2906,user45@mail.com,germany,2026-08-07,14.54,USD
+2907,user337@mail.com,UK,2026-01-04,19.91,USD
+2908,user168@mail.com,usa,2026-04-22,117.44,USD
+2909,user345@mail.com,egypt ,2026-08-25,31.52,USD
+2910,user260@mail.com,Germany,2026-09-29,20.94,USD
+2911,,egypt ,2026-06-25,20.89,USD
+2912,user71@mail.com,Egypt,2026-04-23,123.34,USD
+2913,user220@mail.com,egypt ,2026-07-03,105.61,USD
+2914,user330@mail.com,EGYPT,2026-07-27,37.16,USD
+2915,,Germany,2026-07-03,69.41,USD
+2916,user169@mail.com,egypt ,2026-06-08,96.62,USD
+2917,user125@mail.com,EGYPT,2026-09-05,64.96,USD
+2918,user18@mail.com,egypt ,2026-10-16,47.76,USD
+2919,user33@mail.com,germany,2026-07-31,26.08,USD
+2920,user180@mail.com,usa,2026-08-03,129.75,USD
+2921,user254@mail.com,Germany,2026-08-11,61.02,USD
+2922,user377@mail.com,germany,2026-06-02,130.98,USD
+2923,user282@mail.com,germany,2026-09-03,66.0,USD
+2924,user142@mail.com,USA,2026-06-04,41.52,USD
+2925,user96@mail.com,USA,2026-08-11,94.03,USD
+2926,user270@mail.com,Egypt,2026-02-27,20.26,USD
+2927,user13@mail.com,EGYPT,2026-05-09,123.87,USD
+2928,user275@mail.com,germany,2026-08-04,78.81,USD
+2929,user42@mail.com,egypt ,2026-10-01,69.82,USD
+2930,user2@mail.com,UK,2026-05-21,13.68,USD
+2931,user320@mail.com,UK,2026-05-02,71.12,USD
+2932,user392@mail.com,usa,2026-01-19,78.71,USD
+2933,user57@mail.com,egypt ,2026-06-06,27.27,USD
+2934,user334@mail.com,egypt ,2026-05-31,80.48,USD
+2935,user84@mail.com,egypt ,2026-02-27,26.97,USD
+2936,user32@mail.com,egypt ,2026-07-19,352.11,USD
+2937,user243@mail.com,EGYPT,2026-02-02,82.5,USD
+2938,user217@mail.com,UK,2026-05-01,15.22,USD
+2939,user276@mail.com,egypt ,2026-07-25,,USD
+2940,user295@mail.com,germany,2026-04-23,19.31,USD
+2941,user133@mail.com,USA,2026-07-21,14.05,USD
+2942,user206@mail.com,usa,2026-06-01,41.01,USD
+2943,user135@mail.com,EGYPT,2026-01-25,248.8,USD
+2944,user252@mail.com,germany,2026-02-11,35.76,USD
+2945,user298@mail.com,EGYPT,2026-05-01,35.29,USD
+2946,user192@mail.com,egypt ,2026-05-12,81.36,USD
+2947,user108@mail.com,Egypt,2026-05-01,43.3,USD
+2948,user203@mail.com,UK,2026-05-12,53.89,USD
+2949,user223@mail.com,Egypt,2026-03-01,55.15,USD
+2950,user67@mail.com,germany,2026-04-03,38.75,USD
+2951,user146@mail.com,germany,2026-04-09,66.68,USD
+2952,user321@mail.com,egypt ,2026-01-01,59.62,USD
+2953,user217@mail.com,Egypt,2026-06-27,169.51,USD
+2954,user173@mail.com,germany,2026-09-07,-99.67,USD
+2955,user220@mail.com,germany,2026-02-22,49.83,USD
+2956,user47@mail.com,USA,2026-06-09,25.59,USD
+2957,user11@mail.com,UK,2026-09-15,63.03,USD
+2958,user51@mail.com,usa,2026-04-06,43.81,USD
+2959,user31@mail.com,UK,2026-08-05,131.12,USD
+2960,user54@mail.com,germany,2026-08-05,81.61,USD
+2961,user86@mail.com,usa,2026-03-17,59.15,USD
+2962,user284@mail.com,Germany,2026-06-15,30.53,USD
+2963,user133@mail.com,Egypt,2026-08-09,36.61,USD
+2964,user189@mail.com,USA,2026-04-13,31.23,USD
+2965,user5@mail.com,USA,2026-07-21,88.94,USD
+2965,user5@mail.com,USA,2026-07-21,88.94,USD
+2966,user344@mail.com,UK,2026-09-20,117.89,USD
+2967,user8@mail.com,egypt ,2026-10-06,164.63,USD
+2968,user296@mail.com,UK,2026-03-03,37.39,USD
+2969,user27@mail.com,germany,2026-03-14,11.75,USD
+2970,user358@mail.com,egypt ,2026-03-21,55.7,USD
+2971,user54@mail.com,egypt ,2026-04-20,131.49,USD
+2972,user337@mail.com,Germany,2026-08-09,22.69,USD
+2973,user122@mail.com,usa,2026-02-03,26.92,USD
+2974,user329@mail.com,UK,2026-06-12,22.49,USD
+2975,user57@mail.com,UK,2026-05-18,110.64,USD
+2976,user258@mail.com,usa,2026-07-03,178.81,USD
+2977,user366@mail.com,egypt ,2026-03-24,65.14,USD
+2978,user194@mail.com,UK,2026-09-21,47.83,USD
+2979,user367@mail.com,EGYPT,2026-09-07,26.86,USD
+2980,user277@mail.com,germany,2026-02-01,112.68,USD
+2981,user121@mail.com,USA,2026-01-26,25.73,USD
+2982,user176@mail.com,UK,2026-04-15,66.06,USD
+2983,user357@mail.com,USA,2026-07-19,51.18,USD
+2984,user378@mail.com,EGYPT,2026-06-13,54.15,USD
+2985,user336@mail.com,USA,2026-03-01,60.48,USD
+2986,user85@mail.com,usa,2026-02-27,23.11,USD
+2987,user344@mail.com,UK,2026-03-19,42.28,USD
+2988,user382@mail.com,EGYPT,2026-06-28,91.64,USD
+2989,user136@mail.com,Germany,2026-10-15,98.06,USD
+2990,user154@mail.com,germany,2026-01-24,14.73,USD
+2991,user63@mail.com,USA,2026-06-10,28.61,USD
+2992,user390@mail.com,USA,31/02/2026,46.11,USD
+2993,user116@mail.com,germany,2026-01-10,112.08,USD
+2994,,Germany,2026-01-13,55.49,USD
+2995,user201@mail.com,Egypt,2026-07-16,28.85,USD
+2996,user312@mail.com,UK,2026-07-11,201.2,USD
+2997,user362@mail.com,Egypt,2026-07-13,98.74,USD
+2997,user362@mail.com,Egypt,2026-07-13,98.74,USD
+2998,user368@mail.com,USA,2026-10-12,77.89,USD
+2999,user381@mail.com,Germany,2026-10-04,24.37,USD
